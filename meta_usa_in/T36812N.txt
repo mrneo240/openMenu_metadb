@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=17
+accessories=VGA+JUMP
+network=0
+genre=Action
+description=HER LEGACY LIVES ON. In light of Lara's recent disappearance, those closest to her gather together at the Croft Estate on a gray, rainy day for a memorial service in her honor.
+padding0=0

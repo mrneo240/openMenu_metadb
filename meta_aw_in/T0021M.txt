@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=VGA+ARC
+network=0
+genre=Arcade
+description=""Tamaire"" is a game traditionally played by japanese school children at sport festivals. It takes 200 stuffed balls, 2 baskets and 2 poles to hold the baskets. Any number of children can participate. Note: screen is rotated 270 degrees"
+padding0=0

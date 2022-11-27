@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=7
+accessories=VGA+JUMP
+network=0
+genre=Arcade+Sports
+description=All Your Favorite Sports in 1 Huge Game! Foot ball, Baseball, Basketball, Hockey, Tennis, Soccer, Golf, and Cycling! You must master skills from each of these sports to take on competitors in your quest to earn the title of King of Sports!
+padding0=0

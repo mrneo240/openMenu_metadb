@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=50
+accessories=JUMP+FISH
+network=0
+genre=Sports
+description=Rod. Reel. Weather. Time. Temperature. Location. It all matters if you want to land the biggest fish in the lake. Use all your experience and trickery to see if you can bait the bass.
+padding0=0

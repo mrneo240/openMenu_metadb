@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=170
+accessories=VGA
+network=0
+genre=Action
+description=Defeat D.R.E.A.D. by any means necessary* Infused with superhuman powers and nano-technology, Max Steel battles the forces of D.R.E.A.D and his evil cyborg nemesis Pyscho. Now, armed with a fierce new bio-weapon, D.R.E.A.D plans to ravage and take over the world.
+padding0=0

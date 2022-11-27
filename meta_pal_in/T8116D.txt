@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=-
+accessories=VGA+JUMP+ARC
+network=0
+genre=Fighting
+description=The world has become a very chaotic and disoriented place ever since the tragic murder of Fame Douglas, the sponsor of the legendary ""Dead or Alive 1 World Combat Championship"". We must now rely on you to ensure that the world returns back to a state of peace."
+padding0=0

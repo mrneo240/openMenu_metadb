@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=9
+accessories=ARC
+network=0
+genre=Fighting
+description=The year is 2012. Psychic Warriors rebel against a renegade psychic army in 360 degree suspended fighting arenas. Wariors take control of wind, magic, lightning and the earth's elements in incredible 3-D battles with next-generation 128 bit anime graphics!
+padding0=0

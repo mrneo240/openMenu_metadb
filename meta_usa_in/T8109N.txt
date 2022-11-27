@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=22
+accessories=VGA
+network=0
+genre=Racing
+description=Your dream racer is here. With 128 bit graphics, realistic R/C physics, great weapons, and awesome enviroments, RE-VOLT is your dream racer. Maraud in museums! Rip up the new rooftop level! Trash toy stores! Blast through botanical gardens! Smash up supermarkets!
+padding0=0

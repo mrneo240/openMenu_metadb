@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=-
+accessories=VGA+JUMP
+network=0
+genre=Adventure
+description=Plunge into the tropical waters of the Isle of Tranquillity. As Ecco, an energetic young dolphin you will explore mysterious locations that span four alternative timelines. Seek the majestic city of Atlantis, monument to the civilisation built by humans and dolphins.
+padding0=0

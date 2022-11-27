@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=0
+accessories=VGA
+network=0
+genre=Action
+description=Kill or be killed. Hunt or be hunted. Reclaim the future for mankind. Engage the enemy solo or play against an opponent in split-screen head-to-head battle.
+padding0=0

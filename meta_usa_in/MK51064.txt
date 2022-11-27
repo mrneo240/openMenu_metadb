@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=5
+accessories=VGA+JUMP+RACE
+network=0
+genre=Racing
+description=Thunder across America in the biggest, baddest machines on the open road. Load up with cargo and head cross-country. Remember, break the rules, but don't brake for nuthin'!
+padding0=0

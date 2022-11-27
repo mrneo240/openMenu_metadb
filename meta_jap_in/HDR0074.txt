@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=20
+accessories=VGA+JUMP
+network=0
+genre=RPG
+description=16-year old Taro Yamada is an average kid, living in the suburbs of Japan with his family. One day, while his parents are hosting a party, Taro ends up with the duty of ordering pizza; the pizza deliveryman arrives bearing not only the meal but an additional gift: the Rent A Hero combat armor.
+padding0=0

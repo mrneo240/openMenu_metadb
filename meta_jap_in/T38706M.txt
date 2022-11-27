@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=34
+accessories=VGA+JUMP+ARC+ASC
+network=0
+genre=Shmup
+description=Ikaruga is a vertically scrolling shoot 'em up that supports two-player cooperative modes. A key gameplay feature is its polarity system. Switch the polarity of their ship between black and white to get the ability to absorb the bullets that has the same color as your ship.
+padding0=0

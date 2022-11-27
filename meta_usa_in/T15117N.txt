@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=12
+accessories=VGA+JUMP
+network=0
+genre=Action
+description=Edward and Aline are about to experience a nightmare beyond their darkest imagination. While investigating the murder of a friend, they venture to the mysterious Shadow Island and discover that it is home to untold malevolent adversaries.
+padding0=0

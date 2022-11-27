@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=9
+accessories=VGA+JUMP
+network=0
+genre=Action
+description=Left stranded in a vast snowy landscape after a meteor strikes her airplane, Laura finds herself in a mountain cabin with a mysterious woman named Kimberly. Outside, horrifying creatures of alien origin roam the area...
+padding0=0

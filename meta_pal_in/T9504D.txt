@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=-
+accessories=VGA+JUMP
+network=0
+genre=Sports
+description=The Original Button Basher is back and it's better than ever for Dreamcast. International Track & Field is an old favourite for a new era. Awesome events include: 100 meters, hurdles, javelin, weightlifting, pole vault, clay pidgeon shooting...and more.
+padding0=0

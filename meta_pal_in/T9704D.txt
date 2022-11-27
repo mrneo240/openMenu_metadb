@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=VGA+JUMP+ARC
+network=0
+genre=Sports
+description=LET'S GET READY TO RUMBLE! 16 boxers selectable, each with unique style! In-game announcement by Michael Buffer! Hidden combo moves for crushing power! Arcade, championship and boxer training modes!
+padding0=0

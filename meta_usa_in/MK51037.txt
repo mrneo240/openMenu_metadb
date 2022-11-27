@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=24
+accessories=VGA+JUMP+RACE+MOD
+network=0
+genre=Racing
+description=DAYTONA USA delivers the blistering speed and bumper-crashing action of stock car racing. With exclusive new racing circuits and secret unlockable vehicles, DAYTONA USA provides an incredible racing experience every time you put the pedal to the metal.
+padding0=0

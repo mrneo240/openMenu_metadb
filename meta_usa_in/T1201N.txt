@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=4
+accessories=VGA+ARC
+network=0
+genre=Action
+description=A NEW REVOLUTION...Power Stone. With breathtaking graphics and 100% true to the arcade, it's the first go-anywhere-grab-anything fighting game on the planet. Swing off a light post, run up walls and pick up items like tables, posts and barrels in swashbuckling battles.
+padding0=0

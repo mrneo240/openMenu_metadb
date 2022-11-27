@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=4
+accessories=VGA+JUMP+ARC
+network=0
+genre=Fighting
+description=Two incredible arcade hits in one. Street Fighter 3 New Generation and Second Impact.
+padding0=0

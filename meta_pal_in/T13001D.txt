@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=-
+accessories=VGA+JUMP
+network=0
+genre=Action
+description=Survive the terror of Dinosaur Island. As one secret uncovers another, you piece together a horrifying revelation that could lead to the end of life on Earth.
+padding0=0

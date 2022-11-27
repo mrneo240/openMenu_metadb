@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=-
+accessories=VGA+JUMP
+network=0
+genre=Adventure
+description=Cast down to the meterial world, the mysterious entity 'Raziel' seeks vengeance for betrayal by his master: Kain. He must slay his undead brethren; only then can he absorb their souls for the energy he craves.
+padding0=0

@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=4
+accessories=VGA+MOD+JUMP
+network=0
+genre=Music
+description=Cool Cool Toon is a rhythm-based music video game exclusive to the Dreamcast. The letters A, B, X, and Y appear somewhere in a large circle on the screen. You must use the analog stick to move a marker to the letter and press the corresponding button on the controller at the right time.
+padding0=0

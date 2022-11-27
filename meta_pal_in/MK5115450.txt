@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=11
+accessories=VGA+JUMP+ARC
+network=0
+genre=Fighting
+description=The sequel to the innovative Fighting Vipers has arrived and is set to ignite the world of beat 'em ups once again. Revenge has conquered your mind and aggression has poisoned your blood as you take control of a band of 'Vipers'.
+padding0=0

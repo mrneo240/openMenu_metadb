@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=10
+accessories=VGA+JUMP
+network=0
+genre=Action
+description=Slash or be slashed* Cut into the fastest, most furious first-person combat action adventure ever! You are Maken X, a supernatural sword, with the ability to not only slice into your opponents bodies, but also to take possession of them through ""brainjacking""."
+padding0=0

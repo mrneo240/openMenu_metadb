@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=-
+accessories=VGA
+network=0
+genre=Racing
+description=Maximum Speed features 6 different courses, and allows players to select either automatic or manual transmission. There are 3 different difficulty levels available to the player, which ensures that Maximum Speed remains enjoyable and appealing to a variety of players.
+padding0=0

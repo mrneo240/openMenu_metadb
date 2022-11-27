@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=12
+accessories=VGA+ARC
+network=0
+genre=Sports
+description=STRIKE NOW THE WORLD IS WATCHING! Perform high-flying bicycle kicks, headers and shoot-outs while hearing the chants of the crowd in this flawless arcade translation.
+padding0=0

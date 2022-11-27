@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=18
+accessories=VGA+JUMP+RACE
+network=0
+genre=Racing
+description=Wicked-fast hot-rod racing. High stakes gambling & custom car racing through Satan's playground! 12 Brutal Tracks. 11 screaming-fast hot-rods.
+padding0=0

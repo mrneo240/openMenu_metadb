@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=VGA+MOD+JUMP+RACE
+network=0
+genre=Racing
+description=Enter a new age of driving, a new form of thinking and feeling, and totally immerse yourself in the most advanced driving game ever created.
+padding0=0

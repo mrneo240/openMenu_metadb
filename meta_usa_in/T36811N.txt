@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=10
+accessories=VGA
+network=0
+genre=Action
+description=Ginger is a chicken on a mission. She bravely leads the flock in a number of wild and wacky escape attempts from the barbed wire confines of Tweedy's farm. Will they make it to freedom before they end up as pies? Their fate is in your hands!
+padding0=0

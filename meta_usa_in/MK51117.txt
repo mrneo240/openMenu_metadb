@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=25
+accessories=VGA+MOD
+network=0
+genre=Action
+description=SAVE THE WORLD OR CONQUER IT. Mistaken for a dark villainous hedgehog and kidnapped by a military squad, Sonic must escape his captors and discover who is responsible for his troubles!
+padding0=0

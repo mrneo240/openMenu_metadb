@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=22
+accessories=VGA+KEY
+network=0
+genre=Action
+description=DEATH SENTENCE! Your rapid-fire typing skills spell doom for the undead in this utterly odd, totally challenging take-off on House of the Dead 2. When you're battling zombies in a nightmare-come-true, ten trigger fingers are definitely better than two!
+padding0=0

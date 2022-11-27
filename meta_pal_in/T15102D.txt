@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=0
+accessories=VGA
+network=0
+genre=Sports
+description=All-pro play. All-pro realism. All-pro control.
+padding0=0

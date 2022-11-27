@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=6
+accessories=JUMP+ARC
+network=0
+genre=Action
+description=In a war torn future...Hundreds of years into the future and scientific advancement has put Earth on the brink of mental warfare. The manical terrorist, Dr. Bilsten, once thought dead, has been sighted on the planet Zeta, where he reportedly died in battle.
+padding0=0

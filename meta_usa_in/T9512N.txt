@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=3
+accessories=VGA
+network=0
+genre=Action
+description=You're the Mean One! * As the Grinch, your mission is to undo Whoville's Holiday preparations with the use of your most mischievous inventions. With Max at your side, you'll smash snowmen, solve puzzles, assemble gadgets, and explore Whoville and its many surrounding environments.
+padding0=0

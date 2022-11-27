@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=-
+accessories=-
+network=0
+genre=Shmup
+description=Bangai-O, the galaxy's strongest fighting system, is yours. Riki, the ""self-proclaimed ultimate man of all men"" and his ""quiet but alert"" little sister Mami jointly defend the man star Vortex against the terrible influence of the SF Cosmo Gang."
+padding0=0

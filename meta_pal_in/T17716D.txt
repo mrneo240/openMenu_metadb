@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=-
+accessories=VGA
+network=0
+genre=Adventure
+description=Dragonriders of Pern, is now brought to your Dreamcast as the most fantastical action adventure story yet.
+padding0=0

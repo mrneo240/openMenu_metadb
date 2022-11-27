@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=172
+accessories=VGA
+network=0
+genre=RPG
+description=For what purpose does the seed exist? As a witness to this world, you will provide the answer...Seventh Cross Evolution is a simulation game like no other; you are the creator of your own evolutionary destiny.
+padding0=0

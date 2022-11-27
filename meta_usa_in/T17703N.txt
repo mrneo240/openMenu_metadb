@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=16
+accessories=VGA
+network=0
+genre=Racing
+description=Join Team Suzuki Alstare for the fastest race of your life! Race wicked-fast bikes in the great outdoors. Customize the official Team bikes Suzuki Alstare SuperBike GSX-R750 and Suzuki Alstare SportBike GSX-R600. Fast-paced motorcycle racing at 60 Frames Per Second.
+padding0=0

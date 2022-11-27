@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=3
+accessories=VGA+JUMP
+network=0
+genre=Action
+description=General Plastro and his evil Tan forces have captured Bravo Company! As Sarge, you must undertake 16 missions to rescue your Commandos. Only you can shut down Plastro's Portals and bring peace to the Plastic World again.
+padding0=0

@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=3
+accessories=VGA
+network=0
+genre=Action
+description=AN UNBORN EVIL THREATENS TO DESTROY THE UNIVERSE...* Based on characters from Todd McFarlane's comic book series.* Play as the KISS Elders and explore four hellish realms!* Unleash furious damage on 23 twisted creatures with 12 unique weapons!
+padding0=0

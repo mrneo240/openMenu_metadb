@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=19
+accessories=VGA+FISH
+network=0
+genre=Sports
+description=Hook the Big One! Sega Bass Fishing 2 totally redefines the virtual fishing experience with realistic lakes and life-like ecologies. Watch out - the fish are even smarter this time around!
+padding0=0

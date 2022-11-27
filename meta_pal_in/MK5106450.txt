@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=VGA+JUMP+RACE+MOD
+network=0
+genre=Arcade
+description=18 wheels, 20 tons of cargo, 60 feet of truck and 10,000 miles of highway! Fill up with diesel and climb aboard one of the four big rigs as you haul your cargo from New York to San Francisco in a no holds barred driving battle against rival truckers and the clock.
+padding0=0

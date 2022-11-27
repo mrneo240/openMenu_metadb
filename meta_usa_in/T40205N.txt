@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=3
+accessories=VGA+JUMP
+network=0
+genre=Sports
+description=IT'S TIME TO GO PRO! Skate as the legendary Tony Hawk, or as one of nine other top pros. Work your way up the ranks by landing suicidal tricks in brutal competitions to become the best skater on the circuit.
+padding0=0

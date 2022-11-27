@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=4
+accessories=VGA
+network=0
+genre=Sports+Racing
+description=Snowboard warriors...slash and burn your way through wild and wintery terrain - jump huge boulders, shred steep ravines, and rack up the points with your insane tricks.
+padding0=0

@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=VGA+ARC
+network=0
+genre=Action
+description=Sammy's Atomiswave arcade shoot-em-up in the vein of Metal Slug, where players ride dolphins and destroy fleets of enemy ships and submarines. Unfortunately, this arcade shoot-em-up was never ported to any home console.
+padding0=0

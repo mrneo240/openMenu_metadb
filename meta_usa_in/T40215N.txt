@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=8
+accessories=VGA+JUMP
+network=0
+genre=Action
+description=As commander of the Red Dog assault vehicle, your job is to rid our people of the now aggressive Haak forces occupying the continents of earth. You'll utilize Red Dog's advanced weaponry and armor as you engage in a variety of search and destroy, escort, and defense missions.
+padding0=0

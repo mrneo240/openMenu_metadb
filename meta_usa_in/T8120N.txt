@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=18
+accessories=VGA
+network=0
+genre=Sports
+description=* Ride as ten top pros * Create your own riding style with more than 1300 tricks * Spin, grind and stall your way through 12 different levels
+padding0=0

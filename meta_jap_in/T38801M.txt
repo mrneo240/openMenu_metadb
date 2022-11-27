@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=0
+accessories=VGA
+network=0
+genre=RPG
+description=A bizarre action-RPG, that takes place on the far away planet of Raiyon. Despite the colorful landscape, it's actually in a constant state of war against the two major citizens: cats and sheep. As Jino, an outsider, you end up allying with the felines to help quell the accursed sheep menace.
+padding0=0

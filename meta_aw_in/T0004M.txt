@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=VGA+ARC
+network=0
+genre=Action
+description=Knights of Valour is a side-scrolling Beat 'em up. The plot involves Romance of the Three Kingdoms and features the Five Tiger Generals, Zhuge Liang, Diaochan and others as playable characters. The gameplay involves the use of magical powers that are not featured in other games also based on the novel.
+padding0=0

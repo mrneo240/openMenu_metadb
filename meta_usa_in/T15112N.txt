@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=8
+accessories=VGA+RACE+GUN
+network=0
+genre=Racing
+description=Mayham racing on Dreamcast! * Damage effects such as fire,smoke, hoods and trunks * 14 tracks * One hit kills! Death from above and T-Bone 
+padding0=0

@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=9
+accessories=VGA+4X
+network=0
+genre=Fighting
+description=PUNCH, KICK, GRAPPLE and WRESTLE your competition as an authentic UFC fighter in ultra-realistic, full contact bouts. Are you ready for the Ultimate Fighting Championship? STEP INTO THE OCTAGON and find out.
+padding0=0

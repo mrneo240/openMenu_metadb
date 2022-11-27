@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=5
+accessories=VGA+JUMP+RACE
+network=0
+genre=Racing
+description=Catch The Magic! Experience the thrill of WALT DISNEY WORLD Quest - Magical Racing Tour and find all the missing pieces of the Fireworks Machine. Speed around 13 raceways based on popular WALT DISNEY WORLD Theme Parks and Water Parks.
+padding0=0

@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=6
+accessories=VGA+JUMP
+network=0
+genre=Action
+description=An outcast warrior enters a land plagued by an evil curse. Guts is unlike ordinary men for he carries the Dragon Slayer, a mighty blade of retribution whose fury knows no equal. His enemies will know true fear once they encounter his Berserk rage!
+padding0=0

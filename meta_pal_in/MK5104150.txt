@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=30
+accessories=VGA+JUMP
+network=0
+genre=Adventure
+description=The future is a dangerous place, especially when you dont know where you are, who is trying to kill you and why. Leading the war against crime is the ACN, an elite force of law enforcers known as ""Headhunters"". Take the role as the Headhunter Jack Wade."
+padding0=0

@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=VGA
+network=0
+genre=Fighting
+description=It is the 19th Century, a romantic era when superstitions and legends are alive and powerful. Dreaming of a vast fortune adventurers seek the legendary Power Stones, magical stones that will make any wish come true...
+padding0=0

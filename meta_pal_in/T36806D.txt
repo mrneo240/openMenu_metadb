@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=-
+accessories=JUMP
+network=0
+genre=Action+Survival
+description=Everything you feared...After narrowly surviving the horrific onslaught in Raccoon City, Claire Redfield now seeks clues in search of her missing brother, Chris.
+padding0=0

@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=5
+accessories=VGA+JUMP+ARC
+network=0
+genre=Fighting
+description=The world's most insane tag-team fantasy fighter is bigger than ever! 56 characters include the debut of Jill from Resident Evil, Servbots from Mega Man, and Cable from Marvel Comics fame. Experience fighting with 3 on 3 tag-team battles, unbelievable control and hyper-fast animation.
+padding0=0

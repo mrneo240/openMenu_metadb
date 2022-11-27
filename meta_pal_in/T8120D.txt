@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=VGA
+network=0
+genre=Sports
+description=Dial in to progressive freestyle BMX with 10-time world champion Dave Mirra!
+padding0=0

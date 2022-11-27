@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=17
+accessories=VGA+MOD
+network=0
+genre=Music
+description=A new hustle maneuver complements the six original ones giving life to a related mode of play requiring to shake maracas and assume poses in new manner; the song list has been nearly doubled, with many new songs such as Vamos de Carnaval, the theme from Rocky and more!
+padding0=0

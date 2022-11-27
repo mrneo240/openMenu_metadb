@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=-
+network=0
+genre=Arcade
+description=Six great games, one low price!
+padding0=0

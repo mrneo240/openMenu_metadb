@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=0
+accessories=0
+network=0
+genre=Simulation
+description=States VGA on the box, but isn't.
+padding0=0

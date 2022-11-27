@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=6
+accessories=-
+network=0
+genre=Simulation
+description=You've been contracted by a mercenary group to fuel-up, strap-in and snuff out the enemy. To sweeten the pot in this ""The more you take out, the more you take home"" deal, you can upgrade over 30 different aircraft. You in? Then get ready to grab some serious air!"
+padding0=0

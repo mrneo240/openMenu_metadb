@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=VGA+JUMP
+network=0
+genre=Shmup
+description=Far into the future, a rogue group of terrorist robots wreak havoc on the world and its citizens. Anti-Robot Special Forces has been created to overthrow these robots. Lead a legion of seven members throughrobotic terror, huge bosses and other evils.
+padding0=0

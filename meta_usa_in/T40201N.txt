@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=15
+accessories=VGA+JUMP
+network=0
+genre=Simulation
+description=The only thing standing between you and reality is a piece of glass. Snaproll, flip, and spin through stunning, detailed landscapes. Fly in formation or go solo with fives modes of gameplay. Just try not to fog up the glass, okay?
+padding0=0

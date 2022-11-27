@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=2
+accessories=VGA+JUMP+ARC
+network=0
+genre=Shooter
+description=Witness the beginning of Urban Chaos.
+padding0=0

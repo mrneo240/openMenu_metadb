@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=51
+accessories=VGA+RACE
+network=0
+genre=Racing
+description=Formula 1 World Grand Prix II - The Definitive! Stunning graphics, ear splitting sound and totally immersive game play, F1WGPII drives you through the 99 FIA Grand Prix season using all 11 teams, 22 drivers and 16 tracks from this season.
+padding0=0

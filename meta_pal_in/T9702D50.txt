@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=VGA+JUMP
+network=0
+genre=Racing
+description=Prepare for the power, speed and thrills of Hydro Thunder super-boat racing! With turbo-charged Boosts and monstrous jumps, race your way through some of the most treacherous water courses imaginable!
+padding0=0

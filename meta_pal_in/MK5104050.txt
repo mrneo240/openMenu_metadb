@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=VGA+MOD+JUMP
+network=0
+genre=Racing
+description=""Ladies and Gentlemen, get ready for the biggest and wildest race of your life...Get behind the wheel of a 4x4 off road vehicle and prepare to battle your way through various challenging courses from all over the world."
+padding0=0

@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=10
+accessories=VGA+MOD
+network=0
+genre=Sports
+description=Sega extreme sports is a new fresh sport concept. You get to bungee jump, speed glide, snowboard, drive atv and a ride mountainbike. Everything in betiful exotic locations agains a friend or cpu.
+padding0=0

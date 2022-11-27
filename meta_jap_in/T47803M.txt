@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=0
+accessories=VGA
+network=0
+genre=Shmup
+description=In this unique vertically-scrolling shooter you take the role of a mysterious girl named Karous, who commands a tiny fighter ship and attempts to destroy an evil armada bent on world domination.
+padding0=0

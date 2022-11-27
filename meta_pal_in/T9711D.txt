@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=VGA+JUMP
+network=0
+genre=Sports
+description=the King of the Ring is Back! The undisputed Champion, Afro Thunder, steps back into the ring to floor the competition with outstanding new graphics. 13 cool new boxers and 5 secret celebrity characters!
+padding0=0

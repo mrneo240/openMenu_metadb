@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=18
+accessories=VGA
+network=0
+genre=Action
+description=Be Strong. Be Smart. Be the Prince. Journey back to a time of unbridled passion, harrowing adventure, and blood-pumping action. A once-humble servant in magically transformed into a 12th century Persian Prince.
+padding0=0

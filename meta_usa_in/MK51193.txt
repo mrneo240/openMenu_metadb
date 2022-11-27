@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=45
+accessories=VGA+MOD
+network=0
+genre=RPG
+description=Prepare Yourself for the Next Level. The realm of Phantasy Star Online has increased. Phantasy Star Online Ver. 2 includes all of the original content, and expands the world with more levels, more features, and more evil to combat.
+padding0=0

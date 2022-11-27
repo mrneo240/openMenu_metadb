@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=-
+accessories=VGA+MOD+JUMP+KEY
+network=0
+genre=Action
+description=The world can be a confusing and dangerous place, especially when there are two of you! Sonic must face the new, villainous hedgehog Shadow but you choose how the story unfolds - you can be a hero, or make friends with the dark-side!
+padding0=0

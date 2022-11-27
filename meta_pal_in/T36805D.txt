@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=-
+accessories=VGA
+network=0
+genre=Adventure
+description=""My world is desperately in need of your help. Only YOU can save us"" Responding to the desperate please of a mysterious character from another dimension, your soul must enter the dark and futuristic city of Omikron."
+padding0=0

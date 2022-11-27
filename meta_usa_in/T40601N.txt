@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=33
+accessories=VGA+JUMP
+network=0
+genre=Action
+description=THEY'RE CUTE, HEAVILY ARMED, AND READY FOR ACTION! What happens when you lead a team of heavily armed Worms into action? Worms Armageddon! Use your creativity and skill in this hilarious action-packed strategy game.
+padding0=0

@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=0
+accessories=VGA+MOD
+network=0
+genre=-
+description=It is an email software using the character of HELLO KITTY marketed towards fans of the series. The menu is HELLO KITTY's room, and in addition to possible to change the floor and walls, dress kitty, and even switch cameras, you can peek into HELLO KITTY's life.
+padding0=0

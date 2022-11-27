@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=45
+accessories=VGA+JUMP+KEY+MOD
+network=0
+genre=RPG
+description=You Are Not the Only Hero, Pioneer 2 finally completed it's long voyage to the new home world. But as the ship entered orbit, an enormous explosion shook the entire planet, and all contact with the thousands of people already there was lost.
+padding0=0

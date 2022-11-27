@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=4
+accessories=VGA+JUMP
+network=0
+genre=Simulation
+description=This puzzle simulation tasks players with running a demolition crew. Players are given a set number of charges and can then navigate through a 3D floor plan, setting charges wherever they want. The game then simulates the building's collapse.
+padding0=0

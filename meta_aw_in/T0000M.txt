@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=VGA+ARC
+network=0
+genre=Action
+description=Metal Slug 6 returns to the Rebel-Martian alliance featured in Metal Slug 2/X and Metal Slug 3, but on a much broader scale. Rather than repeating the previous games' events the player now teams up with the Rebels and Martians to combat an even greater threat.
+padding0=0

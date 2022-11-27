@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=-
+accessories=VGA+MOD+JUMP+RACE
+network=0
+genre=Arcade
+description=Its time to get crazy again as the yellow cab returns, but this time to terrorise the streets of New York! With 4 new drivers, a 'crazy jump' feature added and multiple pickup's for those big fares, all you have do is ask yourself one question, 'Do I feel crazy?'
+padding0=0

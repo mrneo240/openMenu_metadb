@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=-
+accessories=VGA
+network=0
+genre=Shooting
+description=Four realms, four elders, one nightmare. An unborn evil threatens to destroy the universe...Enter the hellish world of the Psycho Circus, a demonic realm brimming with mystery and horror.
+padding0=0

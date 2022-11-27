@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=2
+accessories=VGA+JUMP
+network=0
+genre=Action
+description=It's 500 years in the future. Man and machine are virtually one and the greatest megacity in the world is locked in brutal war. You are the ultimate saboteur and part of an elite fighting force.
+padding0=0

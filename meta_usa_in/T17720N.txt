@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=66
+accessories=VGA
+network=0
+genre=RPG
+description=In the shattered world of Pern only one can be savior. It is now your calling to seek out the new Weyrwoman to ride the mighty Gold Dragon, before Pern is forever destroyed.
+padding0=0

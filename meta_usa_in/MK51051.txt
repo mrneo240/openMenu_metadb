@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=5
+accessories=VGA+JUMP
+network=0
+genre=Music
+description=DANCE! FIGHT! SHOOT! Hey There SpaceCats! Meet Ulala, the grooviest reporter in the galaxy. She's got attitude, the moves and the savvy to dance and scoop a story while saving the universe from invading Morolians.
+padding0=0

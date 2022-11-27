@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=2
+accessories=VGA+MOD+JUMP+KEY
+network=0
+genre=Action
+description=Frame Grid is a Japanese mecha fighting game made for Dreamcast by FromSoftware in 1999. Similar to From's Armored Core series, the mecha in the game are heavily customizable.
+padding0=0

@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=8
+accessories=VGA+ARC
+network=0
+genre=Shmup
+description=Trigger Heart Exelica is an arcade-style top-down shooter. Trigger Heart's most awesome weapon is called the Anchor Shot. By using the it Trigger Hearts are able to grab, swing, use as a shield, and hurl back even the most giant of enemy battle cruisers.
+padding0=0

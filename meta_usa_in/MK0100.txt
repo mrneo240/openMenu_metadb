@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=39
+accessories=VGA+RACE+MOD
+network=0
+genre=Racing
+description=Licensed by Ferrari. Developed with top race drivers. Praised by Ferrari for its functionality as a true Ferrari racing simulator.
+padding0=0

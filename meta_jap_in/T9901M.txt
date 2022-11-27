@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=4
+accessories=VGA
+network=0
+genre=Shmup
+description=Trouble brews in the homeland of Cotton's long time friend Silk, as the evil demon Suede steals the legendary Willow candy from the queen's castle. Seeing as how no one can face Suede and his forces Silk drafts Cotton in order to restore peace to her land, but she may have forgotten...
+padding0=0

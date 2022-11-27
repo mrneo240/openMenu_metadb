@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=4
+accessories=VGA
+network=0
+genre=Adventure
+description=A romantic Visual Novel following the life of Yukito Kunisaki, a traveling showman searching for the ""girl in the sky"". He arrives in a quiet seaside town where he meets three girls, one of whom is the key to the end of his journey."
+padding0=0

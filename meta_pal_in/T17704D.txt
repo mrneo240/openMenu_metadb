@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=-
+accessories=VGA
+network=0
+genre=Action+Simulation
+description=Dive into the action. Pilot your fighter sub to victory in the ultimate underwater shooter!
+padding0=0

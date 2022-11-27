@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=4
+accessories=VGA+ARC
+network=0
+genre=Shmup
+description=A sci-fi vertical-scrolling shooter directly ported from its arcade incarnation. Your ship is able to morph into three distinct configurations, each with their own speed and armor as well as unique weapon system,basic machine gun, homing missiles and laser.
+padding0=0

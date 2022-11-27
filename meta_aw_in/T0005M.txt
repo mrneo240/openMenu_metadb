@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=-
+accessories=VGA
+network=0
+genre=Racing
+description=Enter the exciting street-racing world of FASTER THAN SPEED where the winner rules and the loser walks! Hit the street with the most addictive driving experience of your life! Pick from 8 customized rides. FASTER THAN SPEED will take your players into the exotic, dim-lit, back streets on 6 tracks!
+padding0=0

@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=VGA
+network=0
+genre=Shmup
+description=Lock, Lode, and CHARGE 'N BLAST! The ultimate shoot 'em up action game has blasted its way onto the Dreamcast. By the same team who brought you House of the Dead, and Sega Bass Fishing, CHARGE 'N BLAST is guaranteed to make you beg for more.
+padding0=0

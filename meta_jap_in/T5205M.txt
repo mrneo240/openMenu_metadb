@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=0
+accessories=VGA
+network=0
+genre=Sports
+description=Pachinko no Dendou: CR Nanashi is a Pachinko game, published by Micro Cabin, which was released in Japan in 2001.
+padding0=0

@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=4
+accessories=VGA+RACE
+network=0
+genre=Racing
+description=THE AWESOME CHALLENGE OF GRAND PRIX RACING.
+padding0=0

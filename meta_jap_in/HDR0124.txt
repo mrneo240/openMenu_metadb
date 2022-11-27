@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=0
+accessories=VGA+MOD
+network=0
+genre=Simulation
+description=You control units of 5 to 20 men gathering round a commander. Micro-management is reduced, instead it's paper, scissors, stone: cavalry is strong against mages, mages are strong against infantry... Officers can recruit new soldiers in barracks, as long as your mines supply enough resources. 
+padding0=0

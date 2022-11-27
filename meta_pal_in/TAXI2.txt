@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=0
+accessories=VGA
+network=0
+genre=Racing
+description=Taxi 2 is a driving game, based on Luc Besson's movie. Both movie and video game share the same title. The ""story mode"" follows the scenes from the movie and allows you to select from five missions."
+padding0=0

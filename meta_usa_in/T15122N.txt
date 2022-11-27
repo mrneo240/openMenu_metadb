@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=29
+accessories=JUMP
+network=0
+genre=Action+Survival
+description=Surviving reality is only half the horror. Survival horror has entered a new Realm. A deadly computer virus is killing humans. You have been infected and have 7 days to live unless you find a cure and stop the dreadful virus from spreading.
+padding0=0

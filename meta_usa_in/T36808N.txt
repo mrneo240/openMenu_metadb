@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=64
+accessories=JUMP+ARC
+network=0
+genre=Sports
+description=Experience the Sydney 2000 Olympic Games.
+padding0=0

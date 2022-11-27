@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=32
+accessories=VGA+JUMP
+network=0
+genre=Action+Survival
+description=You are part of an elite unit chosen to isolate and destroy ARK before it reaches land. Meanwhile, ARK is gaining power after attaching itself to the nuclear core of the Heimdal. Sheer wit and brute force are all that can save you.
+padding0=0

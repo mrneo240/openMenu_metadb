@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=9
+accessories=VGA+JUMP
+network=0
+genre=Action+Survival
+description=All of Raccoon City is infested. Blood-thirsty zombies, hideous mutations now overwhelm the community. When Leon and Claire arrive in town their nightmare is just beginning...You now control their destiny.
+padding0=0

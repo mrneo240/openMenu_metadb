@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=10
+accessories=VGA+JUMP
+network=0
+genre=Puzzle
+description=The colorful, lovable and jumpy arcade character of the 1980s is now completely updated with bright 3-D graphics and eye-catching animations. Help Q*bert rescue his friends and save Q*dina while navigating his way through challenging new worlds of mind-bending pyramid puzzles.
+padding0=0

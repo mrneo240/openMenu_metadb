@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=41
+accessories=VGA+MOD+RACE+JUMP
+network=0
+genre=Racing
+description=Its not just racing! It's an all-out assault of arcade-style, stunt-based and realistic driving madness. Comprehensive state-of-the-art vehicle dynamics. Authentically licensed cars: Lotus, BMW, Aston-Martin, Alfa-Romeo and more.
+padding0=0

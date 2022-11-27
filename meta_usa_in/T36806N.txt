@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=33
+accessories=VGA+JUMP
+network=0
+genre=Action
+description=An Epic Egyption Adventure! Lara embarks on a journey of discovery across Egypt, where she must overcome the most ingenious puzzles and infernal traps ever devised, and face terrifying evil from beyond the grave...
+padding0=0

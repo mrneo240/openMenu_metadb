@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=-
+accessories=VGA+JUMP+KEY+MS
+network=0
+genre=Action
+description=The year is 1941. Your four-man special forces team has bene shot down deep inside enemy territory and is now reliant on your cunning and tactical thinking to get them safely across the border. The odds are stacked against you. Have you got what it takes?
+padding0=0

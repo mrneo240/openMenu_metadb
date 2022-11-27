@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=0
+accessories=VGA+GUN
+network=0
+genre=Lightgun+Shooter
+description=Virtua Cop 2 is a light gun rail shooter like its predecessor Virtua Cop. The player assumes the role of a police officer and is sent after criminals, from subways and a bank to aboard helicopters.
+padding0=0

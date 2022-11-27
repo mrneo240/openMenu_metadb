@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=VGA+JUMP
+network=0
+genre=Racing
+description=Experience the thrill, speed and sheer excitement of racing the world's number 1 motor-cycle brand with Ducati World.
+padding0=0

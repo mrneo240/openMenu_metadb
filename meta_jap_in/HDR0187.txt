@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=44
+accessories=JUMP
+network=0
+genre=RPG
+description=A side entry in the Shiren the Wanderer series following the events of Shiren the Wanderer 2 for the Nintendo 64. This game is a roguelike role-playing game that features randomized dungeons and a turn-based combat system. If a player dies, they lose their items and experience.
+padding0=0

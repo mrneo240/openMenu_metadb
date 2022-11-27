@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=VGA+ARC
+network=0
+genre=Shmup
+description=Giga Wing is a full-on, non-stop, all action, crazy as hell, shoot 'em up. The Dreamcasts capabilities are pushed to the limit as the screen is filled with enemy vehicles, aircraft, bombs and bullets - all running at super-smooth 60 frames per second.
+padding0=0

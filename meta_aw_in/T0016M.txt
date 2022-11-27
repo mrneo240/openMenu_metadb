@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=VGA+GUN
+network=0
+genre=Lightgun
+description=Mission objectives will require you to go through many an obstacle, such as: Clearing compounds, rescuing hostages, capturing enemy leaders, disarming live bombs and explosives, taking out enemy tanks, shooting down enemy helicopters and more and more.
+padding0=0

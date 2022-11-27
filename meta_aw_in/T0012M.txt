@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=VGA+ARC
+network=0
+genre=Fighting
+description=The Rumble Fish 2 uses all of the elements from the first game and adds some new ones. The Offense and Defense gauges have been divided into three sections each, allowing for more usage of Offensive and Defensive Arts. An addition to the system is the Boost Dive, which puts each character into a powered-up state according to their style.
+padding0=0

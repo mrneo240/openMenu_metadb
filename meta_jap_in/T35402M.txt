@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=3
+accessories=VGA+JUMP+RACE
+network=0
+genre=Simulation
+description=In Tokyo Bus Guide, players drive on three real-world routes of the Toei Bus service. Drive like a pro stopping at the right bus stops on time, triggering announcements and ensuring passenger comfort by not accelerating or braking too harshly to clear the levels.
+padding0=0

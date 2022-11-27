@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=2
+accessories=VGA
+network=0
+genre=Simulation
+description=Forge an empire on iron horsepower! Railroad Tycoon II, based on the award-winning original for PC, steamrolls onto Sega Dreamcast with a boxcar load of new enhancements.
+padding0=0

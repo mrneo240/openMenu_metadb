@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=VGA
+network=0
+genre=Sports
+description=Cueball 2 is the most realistic snooker and pool simulation available, with stunning attention to detail, accurate ball physics, and motion-captured hands that act as referee and your opposition, all in gorgeous HD graphics. It includes other bar games such as darts, draughts, too!
+padding0=0

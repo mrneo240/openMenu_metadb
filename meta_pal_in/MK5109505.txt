@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=0
+accessories=VGA
+network=0
+genre=Sports
+description=Sega Sports and Infogrames bring you UEFA Dream Soccer. Developed by Silicon Dreams it sets a new standard in football on Dreamcast. Supports both traditional and the new arcade game modes like Domination , Time attack and Team Battle.
+padding0=0

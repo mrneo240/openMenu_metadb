@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=27
+accessories=VGA+JUMP
+network=0
+genre=RPG
+description=The Skies' the Limit! Follow the adventures of Vyse, as he journeys through uncharted skies to discover new continents and explore mystical ruins. Accompanied by Aika and Fina, he will wage epic battles against savage monsters, evil Pirates, and a powerful enemy nation.
+padding0=0

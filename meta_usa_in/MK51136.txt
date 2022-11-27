@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=20
+accessories=VGA+JUMP+RACE+4X+MOD
+network=0
+genre=Racing
+description=The Crazy Taxi Cab Co. has set up shop in New York City, and the streets of the Big Apple will never be the same. Hop into your ride and scour the city for fares. Race against the clock for a big payoff!
+padding0=0

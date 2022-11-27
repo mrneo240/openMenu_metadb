@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=-
+accessories=VGA+JUMP
+network=0
+genre=Racing
+description=10 outrageous beaches, 5-to-30-foot breakers, and 8 world-class surfers including Cory Lopez, Shane Beschen, and Rochelle Ballard. You got the cajones to be king of the giant waves? We'll see.
+padding0=0

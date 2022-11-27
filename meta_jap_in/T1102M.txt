@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=14
+accessories=VGA+GO+JUMP
+network=0
+genre=Simulation
+description=Densha de Go! is a Japanese series of arcade train driving games. The goal for the players is to stop the train at the stations in exactly the right position while keeping up with the schedule, obeying all traffic rules, and ensuring the safety and comfort of their passengers.
+padding0=0

@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=0
+accessories=VGA
+network=0
+genre=Shooter
+description=This is the same game asHouse of the Dead 2, except they've turned it into a typing trainer. Instead of guns, your characters have keyboards strapped to them, and instead of shooting the zombies you'll need to type out the words attached to the zombies in order to kill them.
+padding0=0

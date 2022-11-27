@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=6
+accessories=VGA+ARC
+network=0
+genre=Fighting
+description=The legendary spin-off title in the KOF Series is back! Prepare yourself for epic battles! 46 fighters about to clash! 3 hidden characters join the fight! 
+padding0=0

@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=0
+accessories=-
+network=0
+genre=Music
+description=Pop'n Music 2 is the second title in Konami's long-running rhythm game series, and the second Bemani series after the original beatmania. Very similar to its sister game beatmania, pop'n music ditches the turntable and keyboard in favor of nine large candy-colored buttons
+padding0=0

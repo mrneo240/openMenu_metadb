@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=0
+accessories=MOD
+network=0
+genre=-
+description=From a top-down perspective the player navigates between different screens and using a limited amount of digs with a shovel, Yukawa needs to find certain pieces of puzzles (all with a Dreamcast theme) to match the online hints given through the internet via the Dreamcast.
+padding0=0

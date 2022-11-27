@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=-
+accessories=VGA+ARC
+network=0
+genre=Sports
+description=This is Football with a twist. Rather than regularly suited up football players each with their own set of morals, we have got a completely unique cast of players who don't know the meaning of the word. With a play system that is easy to use, Pigskin welcomes all level of player to join in the action.
+padding0=0

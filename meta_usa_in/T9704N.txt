@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=2
+accessories=VGA+JUMP+ARC
+network=0
+genre=Sports
+description=Let's get ready to rumble! 16 fighters who are ready to get down and get it on. An arsenal of taunts and verbal assaults. Hidden combo moves for crushing punishment. Rumble power unleashes extreme moves.
+padding0=0

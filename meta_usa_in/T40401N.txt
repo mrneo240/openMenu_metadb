@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=7
+accessories=VGA+JUMP
+network=0
+genre=Shooter
+description=The most revolutionary action/strategy game of its kind, nothing comes closer to offering an exciting combination of strategy, team-building, realistic three-dimensional graphics and true-to-life special forces action.
+padding0=0

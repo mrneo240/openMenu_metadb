@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=4
+accessories=VGA+JUMP+ARC
+network=0
+genre=Shmup
+description=Radirgy is a vertical-screen top-down bullet-hell shooter. The game features bright, cartoony, cel-shaded graphics.
+padding0=0

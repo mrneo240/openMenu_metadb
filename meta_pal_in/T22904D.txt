@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=19
+accessories=VGA+RACE
+network=0
+genre=Racing
+description=Hold on tight for the ultimate in radio-controlled racing! Stunt GP is as close as you will ever get to the gravity-defyng stunts and lightning-speed racing of radio-controlled cars. Race in a range of beautifully rich environments packed with ramps, fly-overs, and loop-the-loops.
+padding0=0

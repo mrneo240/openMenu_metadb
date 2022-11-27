@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=5
+accessories=VGA+JUMP+ARC
+network=0
+genre=Action
+description=Got good aim with a rack of beef? Then get creative with your weapons. Hurl anything that's not nailed down at the no-good pirates who've kidnapped the President's daughter. This ain't no clean fight.
+padding0=0

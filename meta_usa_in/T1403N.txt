@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=8
+accessories=VGA+JUMP+ARC
+network=0
+genre=Arcade
+description=BRING HOME 6 OF THE GREATEST GAMES IN ARCADE HISTORY. Keep those quarters in your pants. With Namco Museum, you can set up your own arcade with classics like Pac-Man, Ms. Pac-Man, Galaga, Galaxian, Pole Position and Dig-Dug.
+padding0=0

@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=4
+accessories=VGA+JUMP+ARC
+network=0
+genre=Sports
+description=The king of the ring is back! Afro thunder and company return with 13 all new characters including five special celebrity characters!
+padding0=0

@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=7
+accessories=ARC
+network=0
+genre=Fighting
+description=The Next Stage in KOF Appears on Sega Dreamcast! The long-awaited KOF Evolution makes its way from the arcade to your home with a new story and a new system. The dominant version, King of Fighters EVOLUTION, is finally here!
+padding0=0

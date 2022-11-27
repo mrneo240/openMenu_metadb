@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=0
+accessories=VGA
+network=0
+genre=Shmup
+description=A unique combination of vertically-scrolling shooters and competitive puzzle games, Twinkle Star Sprites tells the story of the apprentice witch Ran, who searches for the fabled Twinkle Star that is said to grant any wish to the one that finds it.
+padding0=0

@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=VGA+JUMP
+network=0
+genre=Simulation
+description=This compilation contains the following three tables of Empire's Pro Pinball series , Fantastic Journey , Timeshock and Big Race USA
+padding0=0

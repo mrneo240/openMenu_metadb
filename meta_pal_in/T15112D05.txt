@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=-
+accessories=VGA+JUMP
+network=0
+genre=Action
+description=From the moment Edward Carnby and Aline Cedrac set foot on Shadow Island, they are confronted by mysterious, evil creatures intent on thwarting their progress to recover 3 ancient tablets believed to hold the secret key to some incredible menacing phenomena.
+padding0=0

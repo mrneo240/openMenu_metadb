@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=-
+accessories=VGA+JUMP
+network=0
+genre=Shooting
+description=Kurt and his amazing sniper helmet are back. This time he is teamed with the genius Dr.Hawkins and Max, a 6-legged gun-toting robotic dog. Together, they must use their unique abilities and warped attitude to out-sneak, out-blast and out-think their enemies.
+padding0=0

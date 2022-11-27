@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=50
+accessories=VGA+JUMP
+network=0
+genre=Adventure
+description=BETRAYAL, INTRIGUE, REVENGE* As Raziel, stalk the shadows of Nosgoth feeding on the souls of your former vampire brethren, in your quest to destroy your creator - Kain. After being betrayed and executed by Kain, return to Nosgoth on an epic mission of revenge.
+padding0=0

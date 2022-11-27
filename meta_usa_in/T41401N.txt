@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=5
+accessories=-
+network=0
+genre=Action
+description=An evil curse has fallen on the kingdom of Gomar. As a mysterious mist envelopes the kingdom the inhabitants turn into vicious creatures. A fearless warrior, female spy and powerful wizard have escaped the fate of their fellow villagers.
+padding0=0

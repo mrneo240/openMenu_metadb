@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=22
+accessories=VGA+MOD
+network=0
+genre=Adventure
+description=The epic adventure of Shenmue is re-borne once again as Ryo Hazuki arrives in Hong Kong on his continued mission to avenge his father's death and discover the truth behind the Phoenix Mirror. Shenmue II is a compelling and majestic production that will engulf your entire existence...
+padding0=0

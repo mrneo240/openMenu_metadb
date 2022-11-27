@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=-
+accessories=VGA+JUMP
+network=0
+genre=Action
+description=IT'S ONE BIG MULTI-PLAYER LUV-IN! All your favorite South Park characters are waiting for you at Chef's Luv Shack. Spreading the hot buttered game lovin' with dozens of crazy mini-games. Testing your South Park knowledge with outrageous trivia questions.
+padding0=0

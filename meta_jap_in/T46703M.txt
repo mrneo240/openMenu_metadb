@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=7
+accessories=VGA+JUMP+ARC
+network=0
+genre=Shmup
+description=A futuristic sci-fi shooter in which you play a test pilot strapped to the brand new RAIN combat simulator which allows you to remotely control fighters as they immerse themselves in the midst of enemy territory.
+padding0=0

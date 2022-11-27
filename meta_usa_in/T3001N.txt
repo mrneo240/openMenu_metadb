@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=39
+accessories=VGA+JUMP+RACE
+network=0
+genre=Racing
+description=Rev up your engine, drop the clutch. With unbelievable graphics and authentic detail, F1 World Grand Prix straps you in the driver's seat during the 1998 FIA Formula One Championship Season.
+padding0=0

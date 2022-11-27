@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=0
+accessories=VGA+MOD+CAM
+network=0
+genre=-
+description=Allows users to view or send files on the camera, or edit them with seals and stamps on top of the images. Stickers included famous characters from Sega's flagship Sonic series. Requires the Dreameye peripheral to be useful.
+padding0=0

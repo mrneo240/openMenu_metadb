@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=VGA+ARC
+network=0
+genre=Fighting
+description=Unreleased Atomiswave 2.5D fighter made by Dream Factory. Features 12 characters, a stage for each, and two options for arcade mode as well as versus. In terms of mechanics, the game feels like a more grounded version of Project Justice without any projectiles or teams.
+padding0=0

@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=VGA+ARC
+network=0
+genre=Puzzle
+description=Puzzle game involving creating and serving sushi. Can be played head to head against an opponent or the CPU.
+padding0=0

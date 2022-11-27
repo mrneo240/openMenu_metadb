@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=17
+accessories=VGA+RACE
+network=0
+genre=Racing
+description=THE ULTIMATE THRILL RIDE. Over 40 unique real licensed vehicles - race both Supercars and classic Muscle cars.
+padding0=0

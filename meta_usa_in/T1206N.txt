@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=4
+accessories=VGA+JUMP+ARC
+network=0
+genre=Fighting
+description=Based on the Japanese manga/anime of the same name, JoJo's Bizarre Adventure is a 2D fighter from Capcom.Take on the role of one of 18 characters and battle your friends in Arcade Mode.
+padding0=0

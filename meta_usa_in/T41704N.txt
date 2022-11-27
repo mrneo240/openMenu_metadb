@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=17
+accessories=VGA+JUMP
+network=0
+genre=Shooter
+description=Players step into the boots of America's elite Special Forces to take on realistic military missions in an instense 1st-person shooter. Learn first-hand what it means to be called America's Best.
+padding0=0

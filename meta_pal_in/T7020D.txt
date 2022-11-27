@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=-
+accessories=VGA+JUMP+ARC
+network=0
+genre=Puzzle
+description=Mr Driller's world has been covered with mysterious blocks. Armed with only a might drill, you'll have to dig your way down to safety before his air supply runs out! Fast paced frantic puzzle action with 3 addictive modes!
+padding0=0

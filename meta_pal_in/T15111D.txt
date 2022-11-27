@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=-
+accessories=VGA+JUMP+RACE
+network=0
+genre=Racing
+description=Are you ready to go down in legend? Only the world's greatest champions have entered the mythical ""Le Mans 24 Hours"" Hall of Fame. In order to join them, you will need excellent racing strategy and masterful driving skills to finish the race."
+padding0=0

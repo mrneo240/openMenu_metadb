@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=7
+accessories=VGA
+network=0
+genre=Puzzle+Platformer
+description=Frogger is back for an all-new adventure! * It's fast and furious action from start to finish fro Frogger and his new friend, Lillie Frog. Help them save the Frog Babies from Swamy the Crocodile. This is the best Frogger ever!
+padding0=0

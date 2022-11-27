@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=41
+accessories=VGA+MOD+JUMP
+network=0
+genre=Adventure
+description=A post-apocalyptic underwater exploration game with RPG elements and non-linear adventure. Developed by SEGA and released in 2000. The game follows the exploits of a deep-sea salvage crew as they recover treasure.
+padding0=0

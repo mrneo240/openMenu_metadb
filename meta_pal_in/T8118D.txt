@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=VGA+MOD+JUMP+RACE
+network=0
+genre=Racing
+description=Licensed by Ferrari, with praise for it's fine quality as a complete work of art. Under the supervision of numerous top race drivers, the highest level of realistic control feeling has been achieved.
+padding0=0

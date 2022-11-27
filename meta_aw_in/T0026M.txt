@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=VGA+ARC
+network=0
+genre=Fighting
+description=Players can choose their favorite characters from the series including Kenshiro, Raoh, Toki, Shin, Rei, Juda, Thouther, Mr. Heart and Mamiya!A Boost Gauge for offensive attacks, an Aura Gauge for defensive maneuvers, and a North Star Gauge (your 7 stars of life force) have been included to enhance game play. 
+padding0=0

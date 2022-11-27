@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=186
+accessories=VGA+JUMP
+network=0
+genre=Sports
+description=Skate with the NHL's elite. More speed. More fluidity. More like ice. NHL 2K2 doesn't just pla like hockey, it feels like it. With lightning fast rushes, high impact checks, and snow-showering stops, you'll notice the difference the moment you lace 'em up.
+padding0=0

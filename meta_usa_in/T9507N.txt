@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=20
+accessories=JUMP+ARC
+network=0
+genre=Shooter
+description=Get ready to experience the arcade hit on your Dreamcast. The President and his family have been kidnapped by lethal terrorists, and the government turns to an elite counter-terrorist sniper to neutralize the hostile threats.
+padding0=0

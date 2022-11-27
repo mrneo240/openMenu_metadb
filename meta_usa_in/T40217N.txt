@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=5
+accessories=-
+network=0
+genre=Shmup
+description=Join Riki and Mami Makishi as they pilot the most destructive force the universe has ever known -- the giant robot Bangai-O against the forces of a notorious intergalactic crime syndicate.
+padding0=0

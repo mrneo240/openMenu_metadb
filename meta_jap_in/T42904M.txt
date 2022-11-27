@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=4
+accessories=VGA+JUMP
+network=0
+genre=Adventure
+description=When the protagonist of Bokomu no Tatsujin surrenders to the Sandman and drifts off to sleep, it's time to engage in a board game. Populated with strangely themed mini-games and scenarios, our hero gets to confront/unleash hidden ""alter-egos"" with which he can succeed."
+padding0=0

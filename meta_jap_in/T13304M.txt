@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=41
+accessories=VGA+MOD+KEY
+network=0
+genre=Action+Simulation
+description=Turn-based strategy and real time battle game set in the Mobile Suit Gundam universe. The player gives orders to other pilots in a variety of missions. Each of the pilots has his or her own strength in battle whether it be as a support unit, combat unit, assault, defense, or maneuvering.
+padding0=0

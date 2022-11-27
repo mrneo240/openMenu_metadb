@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=3
+accessories=VGA+MOD+JUMP+KEY+ARC+ASC
+network=0
+genre=Puzzle
+description=This is a puzzle game based on the Street fighter characters. It has three different modes, In Y and Z modes each diamond piece is a specific color, and mode X where a diamond embodies all colors.
+padding0=0

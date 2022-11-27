@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=186
+accessories=VGA+MOD+JUMP+KEY
+network=0
+genre=Sports
+description=TURN UP THE HEAT. Stare down the competition in six different styles of long ball action, including Network mod with Online match-up. You've never played a baseball game with more realism, control, or depth. From the first pitch of Spring Training to the final out of the World Series.
+padding0=0

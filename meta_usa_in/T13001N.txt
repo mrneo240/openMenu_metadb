@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=4
+accessories=VGA+JUMP
+network=0
+genre=Action
+description=Awakening shipwrecked just after a meteor collides with a remote biotech research island, you begin to discover an uncontrollable madness unleashed in the meteor's wake. As one secret uncovers another, you piece together a horrifying revelation that could lead to the end of life on Earth.
+padding0=0

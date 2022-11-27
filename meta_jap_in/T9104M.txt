@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=0
+accessories=VGA+MOD
+network=0
+genre=RPG
+description=Take control of 3 girls in search of adventure and tribulations. Two of the girls are magic apprentices and have varying skills while the other girl is a fighter and seeks to improve her abilities. Your job is to take them through a beautifully rendered adventure filled with magic and action!
+padding0=0

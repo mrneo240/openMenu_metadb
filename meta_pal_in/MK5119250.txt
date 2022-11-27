@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=9
+accessories=VGA
+network=0
+genre=Rhythm
+description=Rez is a fast-action shooter that takes you deep into the world's computer network. You must blast complex viruses, unlock passwords, and destroy firewall bosses as you search for Eden.
+padding0=0

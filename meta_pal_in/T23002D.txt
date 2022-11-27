@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=0
+accessories=VGA+JUMP
+network=0
+genre=Adventure
+description=Take back the Theed palace in fast and furious lightsaber assaults. You will have the power of the Force and your trusty Jedi saber as you ward off legions of battle droids, detroyer droids, assassins and other creatures from the Star Wars: Episode I worlds.
+padding0=0

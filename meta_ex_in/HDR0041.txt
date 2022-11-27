@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=-
+accessories=VGA
+network=0
+genre=Arcade
+description=Worms style gameplay, where you traverse a 2D terrain fighting 1-3 other Human or CPU controlled players trying to blow you up. The final beta was completed, and it was exhibited at the Tokyo Game Show in 2000. Although it was reviewed in the game magazine, the shipment was cancelled just before the release.
+padding0=0

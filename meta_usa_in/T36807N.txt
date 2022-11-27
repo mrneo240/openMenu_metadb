@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=73
+accessories=VGA
+network=0
+genre=Adventure
+description=Who will you be after you die? Enter the crystal-domed city of Omikron to experience a bizarre futuristic 3D-action adventure combining an engrossing storyline with exploration, puzzle-solving, and role-playing. Original Soundtrack by David Bowie and Reeves Gabrels.
+padding0=0

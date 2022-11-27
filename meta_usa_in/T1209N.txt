@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=12
+accessories=VGA+JUMP+ARC
+network=0
+genre=Shmup
+description=Choose your pilot, ready your aircraft and take to the heavens as you embark on a mission to destroy the war-mongering Evil Medallion. Prepare yourself for the ultimate test of coordination, reflex and skill, and rack up high scores in the dynamic struggle between good and evil.
+padding0=0

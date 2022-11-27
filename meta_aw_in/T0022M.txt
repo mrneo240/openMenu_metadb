@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=VGA+ARC
+network=0
+genre=Arcade
+description=WaiWai Drive (c) 2005 Sammy Corp.
+padding0=0

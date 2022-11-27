@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=4
+accessories=VGA+JUMP+ARC
+network=0
+genre=Fighting
+description=Soundtrack by Megadeth, Dust to Dust, Halford!* In the future, with the evolution of Nanobot technology, robots recreate human cell composition in the cyber world. Fantasy and reality have merged into one neo-world. Humans abandon the real world for the cyber luxury of the virtual world.
+padding0=0

@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=8
+accessories=VGA+GUN
+network=0
+genre=Lightgun
+description=The city of Saronica is destroyed by the mysterious SMO. The Resistance is led by Lily who get captured. Now, Kou Yanami and Lily's daughter, Yuri, set out to free her... and blow away any SMO Subliminers who get in their way!
+padding0=0

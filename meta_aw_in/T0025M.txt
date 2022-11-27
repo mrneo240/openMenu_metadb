@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=VGA+GUN
+network=0
+genre=Lightgun
+description=Embark on a hunting trip of a lifetime with Extreme Hunting 2! A choice of the most prestigious North American wild game a hunter could ask for including Bison, Bear, Moose, Elk, Deer, and Wolf along with bonus stages featuring Bass, Goose, Bat, Squirrel and more.
+padding0=0

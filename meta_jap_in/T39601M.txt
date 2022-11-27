@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=0
+accessories=VGA
+network=0
+genre=Action+Shooter
+description=The largest moon base, ""Hamlet"", has stopped responding to communication. It is up to you to determine what happened, and fix it. The game mixes typical FPS gameplay with RPG elements. You are inside a giant mech that can transform into a shape fit for walking, driving, and a mixture of both. "
+padding0=0

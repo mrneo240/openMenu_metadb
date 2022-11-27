@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=10
+accessories=VGA+JUMP
+network=0
+genre=RPG
+description=The power to destroy seeks the power to heal. Mag Launcher must choose between his dream of being the world's greatest adventurer or saving his best friend, Linear. At the center of the conflict lies Yurka, a mysterious new force. 
+padding0=0

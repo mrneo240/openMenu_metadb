@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=17
+accessories=VGA+JUMP
+network=0
+genre=RPG
+description=Silver, a corrupt and sinister sorcerer, rules the land of Jarrah with an iron fist. He and his henchmen have abducted the village women as part of a pact with the almighty god, Apocalypse.
+padding0=0

@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=3
+accessories=VGA+JUMP+GUN
+network=0
+genre=Lightgun
+description=The Confidential Mission Force is a secret organization formed to keep global peace. So when a group of international terrorists seizes control of a high-tech satellite, you're up. Welcome to another day in the CMF.
+padding0=0

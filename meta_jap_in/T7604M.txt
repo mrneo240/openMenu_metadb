@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=10
+accessories=JUMP
+network=0
+genre=Adventure
+description=Friends Kei and Reina land on a mysterious island and search for their friend Ernest. But along the way, they encounter many different monsters in the different mansions they discover. It's up to them to defeat these foes, find their friend, and understand the mysteries of the island.
+padding0=0

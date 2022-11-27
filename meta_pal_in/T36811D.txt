@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=0
+accessories=VGA
+network=0
+genre=Puzzle
+description=The game that has captured the nations imagination can now be played in your own home. With Chris Tarrant as your host. the excitement and tension of the TV show is now available on Dreamcast.
+padding0=0

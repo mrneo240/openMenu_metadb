@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=-
+accessories=VGA
+network=0
+genre=Action+Adventure
+description=Working like a demo of Shenmue, featuring Dobuita, a town in Yokosuka, although not all of it is accessible. You play as Ryo Hazuki much like you would in the full game. Also includes 4 of the movies included on the Passport disc of the original Shenmue that explain aspects of the game.
+padding0=0

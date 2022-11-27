@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=9
+accessories=VGA+JUMP+ARC
+network=0
+genre=Shmup
+description=This action shooter features 7 characters on a quest for the magical ingredients to produce the All-Purpose Medicine. On a journey to see the wise medicine master, you are intercepted by a rowdy band of pirates
+padding0=0

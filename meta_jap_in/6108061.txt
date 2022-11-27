@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=0
+accessories=VGA+ETH
+network=0
+genre=-
+description=Designed for use with Japanese Dreamcast consoles to give users basic internet functions (i.e. surfing the web and checking email). Also includes a virtual console emulator system to download and play games.
+padding0=0

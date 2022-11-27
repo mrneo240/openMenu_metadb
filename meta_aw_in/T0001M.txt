@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=VGA+ARC
+network=0
+genre=Fighting
+description=For over 10 years, the King of Fighters series has been the choice of game players around the world. Choose from 33 fighters, including 4 new characters. The 11th team of fighters continues this tradition. A New Skill Gauge performs a variety of tag-off moves and new attacks.
+padding0=0

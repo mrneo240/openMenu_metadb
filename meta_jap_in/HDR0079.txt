@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=10
+accessories=VGA+MOD+JUMP
+network=0
+genre=Action+Platformer
+description=Porch Arsia a young girl who was mistakenly taken to the afterlife by a novice spirit guide. If Porch is going to leave Napple World, she'll have to tap into the power of the world's mysterious residents and collect six petals. Can Porch gather all of the petals and return to the Real World?
+padding0=0

@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=-
+accessories=VGA+JUMP
+network=0
+genre=Action
+description=As Oddball or Domino, its up to you to rescue your captured puppy friends from the evil clutches of Cruella De Vil and her army of pet-napping toys!
+padding0=0

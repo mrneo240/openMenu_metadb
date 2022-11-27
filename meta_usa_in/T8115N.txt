@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=64
+accessories=VGA+JUMP+ARC
+network=0
+genre=Sports
+description=All 31 NFL teams and 1,500 NFL players. Life-like TV-style sideline camera cuts. 31 team-specific playbooks or create your own. Play-by-play from Mike Patrick & Randy Cross.
+padding0=0

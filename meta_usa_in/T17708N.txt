@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=7
+accessories=VGA+MS
+network=0
+genre=Adventure
+description=Stupid Idiots Need Your Help! Five bumbling aliens are being hunted by the evil Dr. Sakarin and his malicious hitman. To save them you'll crack puzzles, interact with a cast of freaks, and overcome the most deadly danger of all: their own mind-boggling idiocy!
+padding0=0

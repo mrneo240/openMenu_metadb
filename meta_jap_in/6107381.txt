@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=0
+accessories=VGA
+network=0
+genre=Puzzle
+description=A puzzle game released for the Sega Dreamcast. The game was sold as a pack-in with Hello Kitty-branded Dreamcasts - it was not distributed separately.
+padding0=0

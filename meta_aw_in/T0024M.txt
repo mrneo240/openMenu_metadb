@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=VGA+GUN
+network=0
+genre=Lightgun
+description=Extreme Hunting takes players to the North American woods where they hunt a variety of big game trophies including, Mule Deer, White Tail Deer, Elk, Black Bear, Moose, and Grizzly Bear. Some Extreme features include: multiple stages, animals and weapons
+padding0=0

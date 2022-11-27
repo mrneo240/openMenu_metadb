@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=VGA+ARC
+network=0
+genre=Fighting
+description=Taking place a few weeks after the first game. A new Commander Gear was discovered by the name Dizzy. Worried that a second War would start, another Holy Knights Tournament was started. The person who could capture and kill this Gear would be rewarded 500,000 World Dollars.
+padding0=0

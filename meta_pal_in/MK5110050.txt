@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=-
+accessories=VGA+MOD+ETH+JUMP+KEY
+network=0
+genre=RPG
+description=YOU ARE NOT THE ONLY HERO. Something has happened on the planet Ragol and it is your mission to investigate.
+padding0=0

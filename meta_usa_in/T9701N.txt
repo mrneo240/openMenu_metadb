@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=5
+accessories=VGA+JUMP
+network=0
+genre=Fighting
+description=THE GREATEST MORTAL KOMBAT EVER! Your all-time favorite characters return to defend the Earth from Shinnok and the evil denizens of Outworld and Netherelm.
+padding0=0

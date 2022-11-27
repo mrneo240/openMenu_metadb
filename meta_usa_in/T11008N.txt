@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=12
+accessories=VGA+JUMP
+network=0
+genre=Sports
+description=Choose from 8 different games with more than 350 Vegas-style variations as you step into our 3-D casino. With authentic game play, crisp graphics, rich sounds, tutorials and lively interactive characters, you won't find a more realistic casino experience than at the Hoyle.
+padding0=0

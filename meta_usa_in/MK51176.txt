@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=192
+accessories=VGA+JUMP+KEY+MOD
+network=0
+genre=Sports
+description=Get with the program. Big hits. Big Plays. Big Games. Experience all the emotion and excitement of NCAA football as you lead your team to a Rose Bowl victory and the National Championship.
+padding0=0

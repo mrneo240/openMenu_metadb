@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=3
+accessories=VGA+JUMP+ARC
+network=0
+genre=Fighting
+description=STRAIGHT OUT OF THE ARCADE, CAPCOM TAKES TO THE MEAN STREETS. This amazing fighter stars 18 brawlers from the STREET FIGHTER III universe.
+padding0=0

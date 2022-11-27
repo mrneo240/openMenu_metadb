@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=0
+accessories=VGA+MOD
+network=0
+genre=Sports
+description=Sports Jam has eight competitive sports for players to master in head-to-head 2-player matches. The goal is for the player to earn the title King of Sports, and this can only be done by mastering all 12 events including Football, Baseball, Hockey, Basketball, Tennis, Soccer, Golf and Cycling.
+padding0=0

@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=8
+accessories=VGA+JUMP
+network=0
+genre=Action
+description=Embody Cyprien, a young orphan who is transported in a fabulous and spellbinding universe corrupted by a strange threat. Solve the endless mysteries of this facinating world with unforgettable hours of gaming.
+padding0=0

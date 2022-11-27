@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=-
+accessories=VGA+JUMP
+network=0
+genre=Action
+description=Kao the Kangaroo is a hind leg-stomping third person 3D-arcade adventure featuring an energentic marsupial with over-developed hindquarters and an eye for a fight.
+padding0=0

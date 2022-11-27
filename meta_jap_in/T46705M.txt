@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=3
+accessories=VGA+JUMP+ARC
+network=0
+genre=Shmup
+description=Under Defeat is a top-down vertical shooter set in an alternative universe's World War II, where the players pilot the newest machines of war - prototype helicopters.
+padding0=0

@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=6
+accessories=VGA+JUMP+ARC
+network=0
+genre=Fighting
+description=It's been several years since Geese Howard was defeated in a battle with Terry Bogard. Rather than looking to be saved from death, Geese instead decided to die, and left behind his young son Rock. Now Rock and Terry are about to come together for the greatest battle yet!
+padding0=0

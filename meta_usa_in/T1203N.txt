@@ -1,0 +1,8 @@
+[ITEM]
+num_players=3
+vmu_blocks=24
+accessories=VGA+MOD
+network=0
+genre=Fighting
+description=Street fighter perfection! Street Fighter Alpha 3 explodes onto the Sega Dreamcast with new features and astonishing arcade perfection. Choose from over 30 characters, each with 3 different fighting styles. Street fighter 3 is loaded with new enhancments and modes to play!
+padding0=0

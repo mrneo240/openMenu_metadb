@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=80
+accessories=VGA+MOD
+network=0
+genre=Adventure
+description=Open your eyes to the most compelling form of interactivity ever experienced outside the real world. Shenmue is a passionate and gripping story, captured in a beautifully rendered 3D world, brought to live using 'Magic Weather' and 'Time Control' technologies.
+padding0=0

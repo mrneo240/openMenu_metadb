@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=110
+accessories=VGA
+network=0
+genre=Sports
+description=No Refs. No Rules. No Mercy. NFL Blitz is back as this year's exclusive 7-on-7 extreme-style football game. You'll see all the NFL teams, players and new hard-line features.
+padding0=0

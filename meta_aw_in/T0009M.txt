@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=VGA+ARC
+network=0
+genre=Fighting
+description=7 playable characters that all have their own individual special arts, skills and super moves.Rumble Fish is a one on one fighting game which involves one person using their mind to manipulate their opponents mind in such a manner that allows them to gain the advantage over his/her opponent/opponent's character.
+padding0=0

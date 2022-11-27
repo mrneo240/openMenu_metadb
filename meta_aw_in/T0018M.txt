@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=VGA+GUN
+network=0
+genre=Lightgun
+description=Shooting locations include Arizona, California, and Hawaii. 54 shooting scenes and 4 unique bonus games. Single play, head to head and 6 player alternate play. Realistic feedback 28"" shotgun"
+padding0=0

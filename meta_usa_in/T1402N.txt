@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=12
+accessories=VGA+JUMP
+network=0
+genre=Arcade
+description=To stay on top you'll have to dig down deep. Mr. Driller's world has been covered with mysterious colored blocks. Armed with only a mighty drill, you'll have to dig your way down to safety before his air supply runs out!
+padding0=0

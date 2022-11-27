@@ -1,0 +1,8 @@
+[ITEM]
+num_players=0
+vmu_blocks=0
+accessories=0
+network=0
+genre=Simulation
+description=Brings fish from the amazon river to life and interact with them in a virtual environment.
+padding0=0

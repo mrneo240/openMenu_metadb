@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=3
+accessories=VGA+JUMP+ARC
+network=0
+genre=Fighting
+description=Metallic mayhem!!! Straight out of classic Japanese anime movies comes Tech Romancer, the crushing 3-D fighter. Monstrous mechanoids battle in sprawling 3-D enviroments, dwarfing cities and obliterating buildings.
+padding0=0

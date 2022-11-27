@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=14
+accessories=VGA+JUMP
+network=0
+genre=Racing
+description=Supercross Fans Got STOKED!* Race as or against 11-time Supercross Champ Jeremy McGrath and other superstar riders including Button, Pastrana, Windham, Tortelli, Dowd, Ramsey and Albertyn!
+padding0=0

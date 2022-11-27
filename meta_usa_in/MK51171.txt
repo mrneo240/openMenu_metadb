@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=8
+accessories=VGA+JUMP+MIC+MOD
+network=0
+genre=Action
+description=The Triclops have invaded the Earth with a simple plan: the eradication of all human life! Become a tank commander , or join the elite Triclops Guard and crush any human scum that stand in the way. One team will decide the fate of the globe!
+padding0=0

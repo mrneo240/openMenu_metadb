@@ -1,0 +1,8 @@
+[ITEM]
+num_players=8
+vmu_blocks=194
+accessories=VGA+MOD+JUMP+KEY
+network=0
+genre=Simulation+Strategy
+description=Advanced Daisenryaku 2001 is part of a popular strategy game series known in the west as Iron War. Choose your side in World War 2 and change history!
+padding0=0

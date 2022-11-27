@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=36
+accessories=VGA+MOD+MS
+network=0
+genre=Sports+Fighting
+description=Fire ProWrestling D is a wrestling simulation game featuring over 200 wrestlers from many well known North America and Japanese wrestling organizations. Fire ProWrestling D has over thousands of wrestling moves and holds available.
+padding0=0

@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=5
+accessories=VGA+MOD
+network=0
+genre=Adventure
+description=Boku Doraemon is an Adventure game, developed by Sega and published by Sega Toys, which was released in Japan in 2001.
+padding0=0

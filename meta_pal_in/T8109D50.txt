@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=VGA+JUMP
+network=0
+genre=Puzzle
+description=Think you've busted the best? Not until you've faced Bust A Move 4! with intense multi-player competition, all new graphics, and create a level mode, you've never busted bubbles like these!
+padding0=0

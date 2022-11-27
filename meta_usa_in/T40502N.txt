@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=11
+accessories=VGA+JUMP+KEY
+network=0
+genre=Action
+description=Command an elite squad conducting intense covert ops missions during World War II in this exceptional PC game now on Sega Dreamcast!* Do you have the skill and cunning to execute your orders and get your team safely back home?
+padding0=0

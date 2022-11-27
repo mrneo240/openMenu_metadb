@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=VGA+ARC
+network=0
+genre=Fighting
+description=Over 36 characters including a host of new hidden warriors from more than 11 of the greatest fighting games of all time! Special Moves! Each character has a potent signature move!
+padding0=0

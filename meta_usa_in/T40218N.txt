@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=61
+accessories=VGA+JUMP
+network=0
+genre=RPG
+description=Experience the world of Record of Lodoss War up close and personal in an epic 3D Action/RPG only for Sega Dreamcast. Take control of a mysterious warrior from the past, resurrected to save the future, on a colossal quest filled with pulse-pounding action and high adventure.
+padding0=0

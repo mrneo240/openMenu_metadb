@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=0
+accessories=VGA
+network=0
+genre=Sports
+description=SWWS 2000 Euro Edition is more than an update, its a whole new playing and visual experience. It features new game modes , greater attension to detail on the players down to the hair, corner tactics and more !
+padding0=0

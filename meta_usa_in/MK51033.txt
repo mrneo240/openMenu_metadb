@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=24
+accessories=VGA+JUMP
+network=0
+genre=Adventure
+description=As Ecco, you become the defender of the future. Explore expansive underwater environments, where you will need to rely on your special powers and keen dolphin instincts to fend off predators and overcome an array of deadly deep sea dangers.
+padding0=0

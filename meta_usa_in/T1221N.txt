@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=7
+accessories=VGA+JUMP+ARC
+network=0
+genre=Shmup
+description=Half a century has passed since the colonization of Mars. Life on the red planet is productive and peaceful. Earth has placed the Mars Development Agency (MDA) is control of Mars' self-governing sectors, yet retains a tight grip on its colony.
+padding0=0

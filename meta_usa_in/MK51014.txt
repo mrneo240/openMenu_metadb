@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=25
+accessories=VGA+MOD
+network=0
+genre=Action
+description=Buckle up and we're talking 3-point harness. Sonic the Hedgehog will propel your Dreamcast into warp-speed 3D adventure. Want rings? We've got rings. Want Chaos Emeralds? We've got those too.
+padding0=0

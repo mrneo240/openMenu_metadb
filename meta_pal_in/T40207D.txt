@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=-
+accessories=VGA+JUMP+RACE
+network=0
+genre=Racing
+description=Welcome to the world of MagForce Racing, where the action is blindingly fast and the competition is fierce. Breathtaking futuristic cities fly by as racers drive sleek tripods over sinuous 360 degree tracks at fantastic, white-knuckle speeds.
+padding0=0

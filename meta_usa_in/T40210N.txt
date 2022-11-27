@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=10
+accessories=VGA+JUMP
+network=0
+genre=Simulation
+description=As an elite fighter pilot, you're in command of the swiftest and deadliest military jets available. Build and hone your skills to razor sharpness. Then unleash them upon an unsuspecting foe in this ultimate test of fully. *You and a friend can go head-to-head!
+padding0=0

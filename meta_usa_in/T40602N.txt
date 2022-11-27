@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=16
+accessories=VGA
+network=0
+genre=Action
+description=* Multiple views put you as close to the action as you dare! * Classic Arcade and Adventure Game variations. * Fast action real-time 3-D shooter. * Six worlds / 35 levels. * Change views on-the-fly.
+padding0=0

@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=8
+accessories=JUMP
+network=0
+genre=Simulation
+description=Get ready for war...* It's a dark night. The cool, calming ocean air floats across your body, rejuvenating your animal spirit, flowing through your nerves like iced lightning. You breathe deeply, and climb into the cockpit of your P-51 Mustang.
+padding0=0

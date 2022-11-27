@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=0
+accessories=-
+network=0
+genre=RPG
+description=You take control of a tiny, newborn creature. The alien world is harsh, the ""hero"" has to constantly improve, learn new things and avoid being eaten by other animals. Also, an alien robot race just discovered the planet and starts colonizing it. Surviving is obviously not easy..."
+padding0=0

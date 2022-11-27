@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=-
+accessories=VGA+JUMP+RACE
+network=0
+genre=Racing
+description=Join all your favourite Looney Tunes characters as they step astride their rocket-powered space racers in a no-holds-barred, winner-takes-all contst that spans the galaxy and back again!
+padding0=0

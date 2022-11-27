@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=99
+accessories=VGA+JUMP
+network=0
+genre=Sports
+description=SEQUEL TO THE #1 SELLING NFL BLITZ!
+padding0=0

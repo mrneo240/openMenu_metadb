@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=VGA+JUMP+RACE
+network=0
+genre=Racing
+description=Do you want to experience the purse adrenaline and sheer exhilaration of Formula One racing? Do you want to rub shoulders and burn rubber with the most talented F1 drivers in the world? Now is your change to master the Monaco circuit like never before!
+padding0=0

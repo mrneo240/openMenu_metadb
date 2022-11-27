@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=3
+accessories=VGA+JUMP
+network=0
+genre=Action
+description=OUT OF CONFLICT, LEGENDS ARE BORN * 1 to 4 players pit themselves against the vile demon Skorne and his rampaging armies. Save the realms using power-ups, magic spells and items of legend. Increase your abilities as you play in preparation for the final confrontation: Skorne himself!
+padding0=0

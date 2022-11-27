@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=VGA+MOD+JUMP+RACE
+network=0
+genre=Racing
+description=Feel the hundering sound of finely tuned engins and the scent of burning rubber as you await the 'Rolling Start'! Immerse yourself in the blistering speed and white-knuckle action of Daytona USA 2001.
+padding0=0

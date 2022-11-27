@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=-
+accessories=VGA+JUMP
+network=0
+genre=Action
+description=From the creators of the Resident Evil series comes Dino Crisis, a 3D game of panic, terror, and FEAR. You play Regina, a government agent sent to a remote island to track down a missing professor who's been conducting suspicious experiments.
+padding0=0

@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=5
+accessories=VGA+OLE+MOD
+network=0
+genre=Music
+description=""Samba De Amigo."" developed by the world-renowned Sonic Team, adds Latin flavor to Sega Dreamcast. With a crazy cast of characters, mucho music and a new Maracas Controller. ""Samba De Amigo"" will bring you a fiesta of fun!"
+padding0=0

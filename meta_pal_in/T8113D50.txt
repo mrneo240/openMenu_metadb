@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=-
+accessories=VGA+MOD+JUMP
+network=0
+genre=Shooting
+description=The fluff has hit the fan! Meet the fur-fighters - an elite squad of cuddly commandos on a quest to save the world from the evil General Viggo!
+padding0=0

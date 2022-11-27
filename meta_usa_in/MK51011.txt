@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=123
+accessories=VGA+JUMP
+network=0
+genre=RPG
+description=Unravel the tangle of time. Enter a new dimension, where time portals collide and create sheer chaos. You are Sword, a great hero who can solve its mystery, and return its people to their right place in time.
+padding0=0

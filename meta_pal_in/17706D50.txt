@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=VGA+JUMP+RACE
+network=0
+genre=Racing
+description=Experience the thrill of the 1999 Forumla One season with F1 Racing Championship, official licensed by Formula One Administration Limited!
+padding0=0

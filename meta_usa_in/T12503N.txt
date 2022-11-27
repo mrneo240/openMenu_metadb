@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=6
+accessories=VGA+JUMP
+network=0
+genre=Shmup
+description=THEY'RE HERE!* Fight against alien intervention with the finest in land, sea and air combat craft. The ultimate multiple vehicle shoot 'em up!
+padding0=0

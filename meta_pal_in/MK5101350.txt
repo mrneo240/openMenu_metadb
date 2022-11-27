@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=VGA+JUMP+ARC
+network=0
+genre=Fighting
+description=You are a Special Forces agent sent to rescue the President's daughter who is held hostage on a cruise liner. Fufil your mission by any means necessary - punch, kick and use whatever weapons come to hand.
+padding0=0

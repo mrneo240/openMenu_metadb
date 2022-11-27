@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=23
+accessories=VGA+JUMP+RACE
+network=0
+genre=Racing
+description=Weave your way through crowded streets, across sidewalks and even underwater. In a wild and frantic race to deliver passengers on time. In Crazy Taxi, time is money and only the craziest of cabbies earns their fare!
+padding0=0

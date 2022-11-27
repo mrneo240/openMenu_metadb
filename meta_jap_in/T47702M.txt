@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=61
+accessories=VGA+JUMP+ARC
+network=0
+genre=Shmup
+description=SS2 is a vertical-scrolling shooter with sci-fi elements. Also included is a weapon system similar to Psyvariar's in which you can enhance your power and rate of fire by scraping incoming bullets.
+padding0=0

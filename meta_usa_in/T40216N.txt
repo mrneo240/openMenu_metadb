@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=10
+accessories=VGA+JUMP
+network=0
+genre=Racing
+description=The growl of the engines drown out the shriek of the gulls and create an auditory exclamation point above the collected Surf Jockeys. Their marine muscle machines bob and jostle in the small wakes surrounding the starting gate.
+padding0=0

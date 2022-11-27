@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=VGA
+network=0
+genre=Racing
+description=Metropolis Street Racer Opel Challenge is a special pre-production/sample version of the game with only 2 cars: Vauxhall vx220 & Opel Speedster and 3 tracks available. Play head to head against the computer, race a friend in 2 player mode or time attack against the clock.
+padding0=0

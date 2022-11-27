@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=VGA+ARC
+network=0
+genre=Fighting
+description=The worlds greatest 2D beat-em up of all time! An unprecedented total of 56 playable characters, including new Marvel characters and Jill from Resident Evil. Insane 3 on 3 tag team battles - arcade perfect!
+padding0=0

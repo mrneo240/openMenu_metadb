@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=24
+accessories=VGA+MOD+JUMP+ARC
+network=0
+genre=Sports
+description=Now you can earn the title ""The world's greatest athlete"". The top 7 events from Track and Field come to life like never before as players vie for the top sports honor - ""The world's greatest athlete!"""
+padding0=0

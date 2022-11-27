@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=4
+accessories=VGA+MOD
+network=0
+genre=Racing
+description=FEEL THE FORCE. 600 MPH. 4 FT. OFF THE GROUND.
+padding0=0

@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=-
+accessories=VGA+JUMP
+network=0
+genre=Simulation
+description=Enter the cockpit of 10 different high technology jetfighters and discover astounding graphics and perfect control. Experience the art of flight acrobatics with over 20 different missions.
+padding0=0

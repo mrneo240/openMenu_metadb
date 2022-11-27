@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=8
+accessories=VGA+JUMP
+network=0
+genre=Action
+description=You've never experienced anything like BANG! Gunship Elite. Incredible rendering techniques, a real-time 3-D universe, expansive galaxies, aliens, asteroids, mammoth vessels, aggressive fighters and powerful weapons make this the action game your universe is clamoring for!
+padding0=0

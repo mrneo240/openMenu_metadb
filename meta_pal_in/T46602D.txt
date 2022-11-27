@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=JUMP
+network=0
+genre=Fighting
+description=In the future, with the evolution of Nanobot technology, microscopic robots recreate human cell composition in the cyber world. Fantasy and reality have merged into one neo-world.
+padding0=0

@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=49
+accessories=VGA+MOD+JUMP+KEY
+network=0
+genre=Action
+description=You are invited to the ultimate gaming experience. And if you can't make it, we'll bring the party to you! Those loveable worms are back again, annihilating each other with zany weapons on wacky landscapes.
+padding0=0

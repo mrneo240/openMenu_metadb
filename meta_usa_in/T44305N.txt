@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=3
+accessories=JUMP+ARC
+network=0
+genre=Fighting
+description=More than a dozen Samurai blade masters are summoned to compete in a challenge that has only one victor--and no other survivors. The Last Blade 2 Heart of the Samurai recretaes 1864 Japan in all its feudal glory.
+padding0=0

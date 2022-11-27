@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=12
+accessories=VGA+JUMP
+network=0
+genre=Action+Survival
+description=IT'S IN YOUR BLOOD...Just days after surviving the grisly disaster at the mansion lab, Jill Valentine resigns from S.T.A.R.S. and attempts to escape a nightmarish city in ruins.
+padding0=0

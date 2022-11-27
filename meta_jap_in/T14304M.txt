@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=198
+accessories=VGA+MOD+KEY
+network=0
+genre=RPG
+description=The adventure begins in the floating island country called Sonia, where demons are about to break free of the seal that keeps them under control. Character classes included knight, ninja, necromancer, and wizard.
+padding0=0

@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=75
+accessories=JUMP
+network=0
+genre=Simulation
+description=Design and build, then ride your very own dream roller coaster. Yes, that's right, RIDE IT! Realistic Physics combined with the look, feel and sound of a real roller coaster put you in the front seat for the wildest ride of your life.
+padding0=0

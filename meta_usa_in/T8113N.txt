@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=8
+accessories=VGA+JUMP
+network=0
+genre=Racing
+description=DUCATI WORLD RACING CHALLENGE brings you the high-tech and high-powered legacy of Ducati bikes in super-smooth hi-rez detail. * 8 unique tracks on over 40 past, present and classic Ducati superbikes * 2-player splitscreen action
+padding0=0

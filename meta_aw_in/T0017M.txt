@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=VGA+GUN
+network=0
+genre=Lightgun
+description=A competitive 1 to 2 player shooting game where players, using optical guns, must shoot a number of required on-screen targets within a certain time limit to qualify and proceed to next round.
+padding0=0

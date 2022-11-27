@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=7
+accessories=ARC
+network=0
+genre=Fighting
+description=SNK enters the Realm of Dreams! The KOF for Sega Dreamcast is Here! SNK's monumental first game for the Sega Dreamcast is a complete adaptation--with added surprises--of the ""KOF"" series, the ultra-popular action fight fest! It's name: ""The King of Fighters: Dream Match 1999."""
+padding0=0

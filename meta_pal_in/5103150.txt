@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=0
+accessories=VGA
+network=0
+genre=Sports
+description=Sega and Silicon Dreams are on the ball to bring Sega Worldwide Soccer 2000 to Dreamcast. The beautiful game is brought to life in this fast action packed soccer simulation.
+padding0=0

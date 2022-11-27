@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=22
+accessories=-
+network=0
+genre=Sports
+description=How does a 540 Benihana into a One-Footed Smith Grind sound?
+padding0=0

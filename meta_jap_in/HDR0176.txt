@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=2
+accessories=VGA+ARC
+network=0
+genre=Sports
+description=Cosmic Smash, originally released in the arcades, is a futuristic sports game, a mix of squash and Breakout. The goal is to clear each level from a set of different blocks at the far end of the room within a given time limit.
+padding0=0

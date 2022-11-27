@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=-
+accessories=VGA
+network=0
+genre=Action+Survival
+description=In the 21st Century terrorism reigns supreme. You are part of an elite unit chosen to isolate and destroy ARK before it reaches land. You never know what's lurking in the murky water or around the next corner.
+padding0=0

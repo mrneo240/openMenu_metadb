@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=15
+accessories=-
+network=0
+genre=Simulation+RPG
+description=It is the year 2025. SEGA, the well-known developer and producer of consoles and video games, has been set back with financial troubles and staff lay-offs. The player has been hired as the new CEO, and his or her mission is to get SEGA back in the black. 
+padding0=0

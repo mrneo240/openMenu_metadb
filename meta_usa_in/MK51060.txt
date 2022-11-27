@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=4
+accessories=VGA
+network=0
+genre=Puzzle
+description=Illumina, the Guardian Angel, needs your help. The mysterious monster Void has locked up the power of the Precioustones, and it's up to you to guide Sonic and his friends through incredible game boards to recover them.
+padding0=0

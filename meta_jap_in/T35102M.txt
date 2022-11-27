@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=0
+accessories=VGA+MOD
+network=0
+genre=-
+description=Developed and published by Gainax in 2001, Neon Genesis Evangelion - Typing Hokan Keikaku is a typing tutor game that makes use of the Sega Dreamcast's keyboard peripheral.
+padding0=0

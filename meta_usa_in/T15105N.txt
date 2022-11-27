@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=5
+accessories=VGA+JUMP
+network=0
+genre=Racing
+description=Funny animal characters compete in a madcap triathlon on ice. Select one of seven whimsical characters including a penguin, shark, walrus, hippo, octopus, bird or dog. Race against each other or against the clock in three unique events including belly-surfing, ice-walking, and swimming.
+padding0=0

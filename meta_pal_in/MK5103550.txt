@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=-
+accessories=VGA+JUMP+RACE
+network=0
+genre=Arcade
+description=The smash hit arcade game has been faithfully converted to the Dreamcast console, featuring an exclusive new city, bonus missions and hidden extras.
+padding0=0

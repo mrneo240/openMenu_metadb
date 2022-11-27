@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=-
+accessories=VGA
+network=0
+genre=Sports
+description=Incorporating state of the art visuals and animation which is so realistic you'll be handing out the oranges at half time! There are over 32 National Teams and Club Teams from all the major leagues across Europe.
+padding0=0

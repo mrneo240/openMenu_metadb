@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=3
+accessories=VGA
+network=0
+genre=Fighting
+description=BRUTAL, BONE CRUNCHING ACTION. Immerse yourself in the chaos of a ""Royal Rumble"" match with up to 9 Superstars in the ring at one time. Better watch your back, because in this type of match there are no allegiances or friendships."
+padding0=0

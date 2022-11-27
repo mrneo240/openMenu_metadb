@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=10
+accessories=VGA+JUMP
+network=0
+genre=Sports
+description=Legendary BMX rider Mat Hoffman leads a cast of some of the best riders on the planet. Perform tricks and make the points to proceed through each level of Street, Vert, and Dirt courses, or take on a mate in 2 player split screen mode and see who has the best bike in town.
+padding0=0

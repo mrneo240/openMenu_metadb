@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=12
+accessories=VGA+ARC
+network=0
+genre=Fighting
+description=The legend continues. The fighting game that revolutionized the genre returns in its most powerful incarnation yet. Who will emerge victorious in the Thrd World Fighting Tournament?
+padding0=0

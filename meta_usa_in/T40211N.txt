@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=40
+accessories=VGA+MOD
+network=0
+genre=Racing
+description=Screaming around a blind turn, you cut your opponent off, driving him head on into the divider. Toast. This is the world of Tokyo Xtreme Racer 2, a blistering battle to rule the streets of Tokyo.
+padding0=0

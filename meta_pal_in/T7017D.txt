@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=ARC
+network=0
+genre=Fighting
+description=Two monster corporations at war. One solution. A massive martial arts event organized to settle the score and eliminate conflict between the two parties. Capcom vs. SNK... the ultimate collision of strength and power.
+padding0=0

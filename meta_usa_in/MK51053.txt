@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=42
+accessories=VGA+JUMP+RACE+MOD
+network=0
+genre=Racing
+description=Build, Customize And Race Your Own Supercharged Speedster In The First Driving Simulator For Sega Dreamcast.
+padding0=0

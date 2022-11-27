@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=VGA
+network=0
+genre=Shmup
+description=The shoot-em up arcade smash Gunbird 2 blasts its way exclusively onto the Dreamcast.
+padding0=0

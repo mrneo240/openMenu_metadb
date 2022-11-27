@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=-
+accessories=VGA+JUMP
+network=0
+genre=Adventure
+description=Unite the shattered kingdoms of humanity. Bring knowledge of the arcane arts and mastery of deadly swordplay. The vile Dragon Lord has returned and in his shadow of impending doom an unholy pestilence threatens all mankind.
+padding0=0

@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=2
+accessories=VGA+JUMP
+network=0
+genre=Shmup
+description=Don't stop Running, Don't stop Shooting, Don't start Thinking... ...Because you are Expendable.
+padding0=0

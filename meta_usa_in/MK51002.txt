@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=7
+accessories=JUMP+ARC+GUN
+network=0
+genre=Lightgun
+description=In this game you play the role of a detective out to stop a madman who has unleashed zombies and other horrid creatures on an Italian city. You have to kill the monsters, save people and find out the plans behind this mayhem.
+padding0=0

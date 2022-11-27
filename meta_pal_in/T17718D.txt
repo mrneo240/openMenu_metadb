@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=-
+accessories=VGA
+network=0
+genre=Action
+description=Aladar and family are forced to leave for the mainland - life as they knew it is over. Danger lurks at every corner as you lead the dinosaur herd through scorching lava flows, toxic smoke and scalding geysers.
+padding0=0

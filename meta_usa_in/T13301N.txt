@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=6
+accessories=VGA+JUMP
+network=0
+genre=Simulation
+description=ULTRA-REALISTIC 3D SHOOTING AS VIEWED FROM YOUR COCKPIT! * Issue orders to reconnoiter, attack, or defend, and allied units spring into combat at your command - all in real time! Order your men to back you up in combat, or have friendly tanks provide support.
+padding0=0

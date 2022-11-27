@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=64
+accessories=VGA+MIC
+network=0
+genre=Simulation
+description=Recreate the Experiments of the Scientist Jean Paul Gasse. Now that you have obtained your own Seaman egg, use the faithful recreation of Dr. Gasse's laboratory to follow in his footsteps, uncovering the secrets of the Seaman. When the Seaman egg hatches, the adventure begins...
+padding0=0

@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=0
+accessories=VGA+JUMP
+network=0
+genre=Racing
+description=Midway's Thunder Racing Series continues with a four-wheel frenzy! Choose from one of four classes of rugged off-road vehicles and watch the dirt fly by at a blistering 60 frames per second! *24 Tracks and a bonus trucks! *2 player split-screen!
+padding0=0

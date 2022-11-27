@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=6
+accessories=VGA
+network=0
+genre=RPG
+description=One hundred years after discovery of the Sleeper, something goes terribly wrong, destroying the city and the people. The Sleeper awakes and leaves the laboratory. As the Sleeper, you try to save the city of Fogna and learn what went wrong.
+padding0=0

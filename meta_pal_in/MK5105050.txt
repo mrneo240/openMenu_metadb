@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=-
+accessories=VGA+JUMP
+network=0
+genre=Action
+description=First-person sword combat, multiple endings awarded to players depending on the characters they choose to possess and an engaging story line all combine to deliver the most unique action aventure for Sega's Dreamcast.
+padding0=0

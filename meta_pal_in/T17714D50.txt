@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=-
+accessories=VGA+JUMP
+network=0
+genre=Action
+description=Donald Duck is on a quest. He has to save the kidnapped Daisy from the clutches of Merlock, the evil Magician. And, if this wasn't bad enough, he has to hurry, Donald must reach Daisy before his cousin Gladstone Gander!
+padding0=0

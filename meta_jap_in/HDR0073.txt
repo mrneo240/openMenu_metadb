@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=0
+accessories=VGA+MOD
+network=0
+genre=Puzzle
+description=Tetris from Sega ! Nice graphics and a 2 player mode that adds special attacks to the gameplay that are activated by clearing lines. 
+padding0=0

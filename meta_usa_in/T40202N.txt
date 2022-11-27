@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=15
+accessories=VGA+JUMP+RACE
+network=0
+genre=Racing
+description=Throw down against road rivals in Point Battle Mode, customize your import dream ride in Quest Mode, or choose Versus Mode to go head-to-head at a blistering 60 frames-per-second in Tokyo Highway Challenge.
+padding0=0

@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=VGA
+network=0
+genre=Simulation
+description=Join in on all the heart-pounding, dog fighting action in over 17 levels of excitement. Take on every last carrier, submarine, air base and warplane in the Pacific theater. More than 20 uniquely detailed airplanes let you party like its 1942.
+padding0=0

@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=29
+accessories=VGA+JUMP+ARC
+network=0
+genre=Action
+description=The Nightmare Continues. Assume the role of Herbet Wallace, an escaped test subject, on the trail of the demonic scientist, Dr. Adam Crowley. After enduring years of horrific lab experiments, Wallace is out to settle the score in a chilling and bloody chase through London and Paris.
+padding0=0

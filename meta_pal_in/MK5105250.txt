@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=-
+accessories=JUMP
+network=0
+genre=RPG
+description=The age of exploration has dawned and you are about to embark on a magical journey, a voyage of discovery across the vast Skies of Arcadia in search of treasures untold, and where there is treasure, there will be Air Pirates!
+padding0=0

@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=16
+accessories=VGA+KEY+MS
+network=0
+genre=Shooter
+description=You are John Mullins. You're the world's deadliest soldier of fortune and your mission is clear: survive. Track down and take out a fanatical terrorist organization bent on the mass murder and destruction in intense and explosive missions.
+padding0=0

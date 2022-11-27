@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=5
+accessories=VGA+MOD
+network=0
+genre=Action
+description=Blast your way through the levels by destroying your opponents with strategically placed bombs. You need to use your bombs effectively, but you also better know when to run! Brand new stages and frantic new modes create an endless chain reaction of fun!
+padding0=0

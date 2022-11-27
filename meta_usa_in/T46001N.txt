@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=7
+accessories=VGA+JUMP
+network=0
+genre=Action+Survival
+description=Imagine, if you will, a berserk B-movie horror-film producer with a twisted sense of humor who puts up a million bucks (fictitious, of course!) to anyone who can survive his seven, movie-themed worlds. It's a bloody mess of mutant monsters, over 1000 traps and items, and abject terror fused with B-movie humor.
+padding0=0

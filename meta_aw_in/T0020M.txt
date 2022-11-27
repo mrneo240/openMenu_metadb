@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=VGA+ARC
+network=0
+genre=Fighting
+description=An unreleased Atomiswave fighting game developed by Anchor Inc. that would later be reskinned and released as Jingi Storm: The Arcade.A fighting game, with 8 selectables characters. In this game each character can use the powerful Sanskrit spells to attack the opponents, in exchange of a small amount of the life gauge.
+padding0=0

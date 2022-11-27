@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=VGA+ARC
+network=0
+genre=Fighting
+description=Side scrolling beat 'em up with 4 characters, Enzo, Leoneer, Vanessa or Undead as you battle your way through various stages. There are many items, which are available to use as a weapons against your enemies. Each player has their own assortment of moves and specials that they can unleash at will.
+padding0=0

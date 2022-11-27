@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=18
+accessories=VGA+MOD
+network=0
+genre=Racing
+description=Attention sinners. The most infernal arcade racer ever is now online. All the hellish tracks, tricked out cars, and shady side bets from the original Speed Devils return.
+padding0=0

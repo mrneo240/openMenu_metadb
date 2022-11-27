@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=4
+accessories=VGA+MOD+JUMP
+network=0
+genre=Action
+description=Re-release of Jet Set Radio in Japan with several changes and changes. Tag, Grind and Trick to the Beat* Join a graffiti crew, stamp your territory and protect it from rival taggers, but watch out for the angry cops!
+padding0=0

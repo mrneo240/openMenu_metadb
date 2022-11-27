@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=8
+accessories=VGA+JUMP
+network=0
+genre=RPG
+description=Join Mag Launcher in his battle against the 8th Empire! The first RPG for the Sega Dreamcast. Discover precious artifacts and treasures to earn magical powers and advanced special moves.
+padding0=0

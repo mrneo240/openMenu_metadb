@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=9
+accessories=VGA
+network=0
+genre=Racing
+description=Mud-slinging, air-catching, stomach-turning off-road racing!
+padding0=0

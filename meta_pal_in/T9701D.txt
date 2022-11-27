@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=VGA+JUMP
+network=0
+genre=Fighting
+description=The greatest Mortal Kombat ever! Defend the Earth once again from the menance of Shinnok and his minions!
+padding0=0

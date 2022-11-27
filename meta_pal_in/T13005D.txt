@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=-
+accessories=VGA+JUMP
+network=0
+genre=Action
+description=Calling all intergalatic Space Rangers! Only you, Buzz Lightyear, and your elite Space Ranger team can defeat the evil Emperor Zurg and his bad guys in their dark quest for universal domination. To infinity and beyond!
+padding0=0

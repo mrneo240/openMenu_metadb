@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=VGA+MOD+OLE
+network=0
+genre=Rhythm
+description=It's party time and SambaDeAmigo is going to have you and your friends partying all night long! pick up the exclusively designed Maracas and show who'sthe Samba champion by dancing and shaking to some of the best Latin beats.
+padding0=0

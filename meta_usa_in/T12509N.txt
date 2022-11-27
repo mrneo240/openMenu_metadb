@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=24
+accessories=VGA+RACE
+network=0
+genre=Action
+description=White-knuckle it through the streets of San Francisco in Super Runabout, the ultimate go-anywhere driving game. Drive anywhere you want through parks, buildings, garages and more...just don't let silly things like traffic laws get in the way of a little fun.
+padding0=0

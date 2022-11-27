@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=-
+accessories=-
+network=0
+genre=Simulation
+description=Get ready to trip through the sound barrier. You've been contracted to take conrol of unfriendly skies and you'll be paid for every strike. Save up to buy over 30 aircraft from A-10s to MiG 29s.
+padding0=0

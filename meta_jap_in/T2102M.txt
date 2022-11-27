@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=16
+accessories=VGA+JUMP
+network=0
+genre=Simulation
+description=Panzer Front is a realistic World War II tank combat simulation spanning the summer offensive into Russia of 1941 to the fall of Berlin in 1945. Nearly 25 historical missions are provided in which the player can control American, German, or Russian forces.
+padding0=0

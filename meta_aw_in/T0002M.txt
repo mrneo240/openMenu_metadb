@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=VGA+ARC
+network=0
+genre=Fighting
+description=Samurai Shodown VI, is the 10th game in the Samurai Shodown series of fighting games. Featuring new backgrounds with 2D and 3D elements, as well as a returning cast of all 28 characters from Samurai Shodown V Special, as well as all 7 characters from Samurai Shodown and Samurai Shodown II that didn't appear in later games, and 4 new characters.
+padding0=0

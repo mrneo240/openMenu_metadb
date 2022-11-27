@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=2
+accessories=VGA+JUMP+ARC
+network=0
+genre=Shmup
+description=Chaos Field is a top-down space shooter similar in concept to the Gradius series, or Ikaruga. You control one of three ships, each with their own pilot and unique weapon systems. Almost the entire game is composed of boss battles, each boss requiring a different strategy to defeat.
+padding0=0

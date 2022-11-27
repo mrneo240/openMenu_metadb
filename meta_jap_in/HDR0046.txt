@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=0
+accessories=VGA+MOD
+network=0
+genre=Puzzle
+description=A columns puzzle game based around the Sakura Wars Franchise. It includes a story mode, a battle mode, an endless columns mode, and a puzzle mode. The game featured the ability to play other over the internet with the ""Hanagumi Battle Columns 2"" network match service. "
+padding0=0

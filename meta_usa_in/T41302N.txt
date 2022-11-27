@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=7
+accessories=VGA+ARC
+network=0
+genre=Simulation
+description=You're the leader of the best agency, the Blitzstahl. Your squad consists of seven agents, but each assignment only requires four to get the job done. Your agents specialize in skills like hacking, fighting, mechanics, and stealth, so you'll have to pick the best combination for each job.
+padding0=0

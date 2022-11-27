@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=40
+accessories=VGA+RACE+KEY+MOD
+network=0
+genre=Racing
+description=In this world, there are no street signs, no traffic signs, no dead ends, only you. In this world, where the road ends, the game begins.
+padding0=0

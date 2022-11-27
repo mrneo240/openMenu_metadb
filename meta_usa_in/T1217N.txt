@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=8
+accessories=VGA+JUMP
+network=0
+genre=Action+Survival
+description=Your covert mission to infiltrate an isolated, research compound, has gone haywire... now you find yourself pursued by a relentless, pre historic terror. Suddenly, your mission becomes a desparate fight for survival.
+padding0=0

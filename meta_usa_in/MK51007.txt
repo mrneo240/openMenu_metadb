@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=12
+accessories=VGA+RACE
+network=0
+genre=Racing
+description=Have a quick race or fight the CART championship in this officially-licensed racing game. It features 19 accurately-modeled tracks including ovals, street, and road courses, all based on the real thing. You can choose from 27 drivers and 17 official teams.
+padding0=0

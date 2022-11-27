@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=5
+accessories=VGA+JUMP+ARC
+network=0
+genre=Action+Arcade
+description=HOW YA GONNA KILL 'EM IF THEY'RE ALREADY DEAD? It takes both firepower and fist-power to wipe out the ultimate army: a legion of hideous, killer Zombies. Beat these bio-engineered super-warriors, and save the country from their horror.
+padding0=0

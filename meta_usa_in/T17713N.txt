@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=6
+accessories=VGA+JUMP+KEY+RACE+ETH+MOD
+network=0
+genre=Racing
+description=Get into the Pod and get fast. Real fast. Slip onto SegaNet and blast into POD SpeedZone, the fastest arcade racer for your Sega Dreamcast online. Pilot 8 futuristic cars across 6 surreal, mercilessy interactive tracks.
+padding0=0

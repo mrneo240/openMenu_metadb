@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=80
+accessories=VGA+MOD
+network=0
+genre=Adventure
+description=The Experience Begins. A massive and highly detailed 3D world unlike anything ever seen. Real-time fighting with moves learned throughout the game - motion capture with real budo experts. Interact with a huge cast of characters with movements as intricate as a twitch of a finger.
+padding0=0

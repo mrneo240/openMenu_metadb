@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=2
+accessories=VGA+JUMP+KEY+4X+MOD
+network=0
+genre=Action
+description=Multi-player Combat with a Tropical Punch! Wage all-out war in a wacky Polynesian game world. Strap on your grass skirt because you're the Big Kahuna, battling for the heart of the volcano goddess, Ooga Booga!
+padding0=0

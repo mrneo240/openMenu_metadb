@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=JUMP
+network=0
+genre=Simulation
+description=Hit the afterburners, you're locked on to AeroWings 2: Air Strike! Put yourself in the cockpits of the most awesome military machines to grace the skies, and prepare for gut-wrenching aerial combat that will take your breath away.
+padding0=0

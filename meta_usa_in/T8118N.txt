@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=3
+accessories=VGA+JUMP+ARC+RACE
+network=0
+genre=Racing
+description=Spirit of Speed 1937. ""Unlimited power matched with supreme bravery - the formula for racing champions"" Experience the sensation of total speed in the most exciting classic race cars of the 1930's."
+padding0=0

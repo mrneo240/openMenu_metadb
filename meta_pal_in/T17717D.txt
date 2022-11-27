@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=24
+accessories=JUM
+network=0
+genre=Puzzle
+description=One of the most populat videogames on earth, Tetris is simple, incredibly addictive and universally loved. Tetris is a part of our popular culture !
+padding0=0

@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=15
+accessories=VGA+MOD+JUMP
+network=0
+genre=Simulation
+description=Chain-smoking Neji Taihei is an average Japanese guy, lives by himself in his apartment, and is kind of a loser. Naturally, just letting the guy continue being a loser isn't particularly interesting, so a spirit that happens to also live in his apartment starts to toy with his daily life. 
+padding0=0

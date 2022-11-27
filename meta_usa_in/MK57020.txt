@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=10
+accessories=JUMP
+network=0
+genre=Action
+description=BE NICE TO YOUR TOYS! It's all-out war as neglected old-time toys rebel against the shiny new generation for the title of Toy Commander. No your average fun and games!
+padding0=0

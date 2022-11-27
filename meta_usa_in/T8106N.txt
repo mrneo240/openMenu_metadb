@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=36
+accessories=VGA
+network=0
+genre=Action
+description=He is coming, stalking criminals in spirit world and real world. A possessed man is coming, a voodoo mask in his chest and lines of power in his back. Shadow Man is coming. Trailing evil from Liveside to Deadside. To stop an apocalypse. To save your soul.
+padding0=0

@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=JUMP+ARC
+network=0
+genre=Shmup
+description=You're the Millennium Soldier on a countdown to destruction, wreaking revenge on an alien invasion. The guns are huge, the explosions enormous and the action reaches the skies as gigantic forces collide in this 3D blaster.
+padding0=0

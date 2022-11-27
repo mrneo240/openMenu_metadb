@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=ARC
+network=0
+genre=Fighting
+description=Unleash loads of special moves in one of the most colourful and spectacular games ever.
+padding0=0

@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=7
+accessories=VGA+JUMP
+network=0
+genre=Action
+description=You don't just play it...you live it. He spins a web, swings across the sky and lands with a somersault onto the Daily Bugle building. Who is this masked hero? It's you!
+padding0=0

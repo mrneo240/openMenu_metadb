@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=-
+accessories=VGA+MOD+JUMP
+network=0
+genre=Action+Sports
+description=The government is attempting to silence the kids of Tokyo - to, but armed with their motorised in-line skates the cops will have to catch 'em first. DJ Professor K keeps the tunes pumping from the pirate radio station 'Jet Set Radio'.
+padding0=0

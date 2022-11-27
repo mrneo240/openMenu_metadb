@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=19
+accessories=VGA+JUMP+ARC
+network=0
+genre=Shmup
+description=The heavens explode into inter-galactic chaos in this classic arcade shooter for the Sega Dreamcast. The rebellion's savage forces have returned in an all-out campaign for universal domination. Only you can defeat them! Pick your aircraft and prepare for hi-tech dogfights!
+padding0=0

@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=3
+accessories=VGA+JUMP
+network=0
+genre=Sports
+description=Razor Freestyle Scooter is the opportunity to take your scooter into the funbox! Control urban thrashers who cut through massive, radical environments. Perform tight tricks, like heel-flips, candybars, can-cans and supermen.
+padding0=0

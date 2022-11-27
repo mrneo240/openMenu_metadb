@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=10
+accessories=VGA+JUMP+FISH
+network=0
+genre=Sports
+description=Get hooked on the most realistic fishing video game ever! Do you have what it takes to be a world-class master angler? Find out as you fish the most scenic and challenging angling destinations in the world.
+padding0=0

@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=20
+accessories=VGA+MOD
+network=0
+genre=Puzzle+Adventure
+description=Large and lovable Moigle has a Secret Project that will keep the greedy Baron Malodorous and his gang of Mercenary Cats from taking over the Floigan Junkyard. Together, the Floigan Brothers play games and solve puzzles, all while defending their family turf!
+padding0=0

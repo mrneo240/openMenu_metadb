@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=7
+accessories=VGA+JUMP+ARC
+network=0
+genre=Shmup
+description=Zero Gunner 2 is a top-down shooter. Since your craft is a helicopter, a ""target and spin"" feature has been added, whereby you can both rotate your craft to attack an enemy, or alternatively lock on a particular point in space and rotate around it while still firing."
+padding0=0

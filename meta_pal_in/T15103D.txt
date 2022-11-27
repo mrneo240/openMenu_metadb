@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=-
+accessories=JUMP
+network=0
+genre=Racing
+description=Belly-surfing, swimming and ice-walking in a fast furious and funny triathlon, all in several outstanding graphical worlds.
+padding0=0

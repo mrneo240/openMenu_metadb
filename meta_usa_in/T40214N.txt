@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=24
+accessories=VGA+JUMP+MOD
+network=0
+genre=Puzzle
+description=One of the most popular videogames on Earth, Tetris is deceptively simple, incredibly addictive and universally loved. Now, Tetris madness comes to the Sega Dreamcast.
+padding0=0

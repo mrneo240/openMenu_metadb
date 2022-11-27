@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=81
+accessories=VGA+JUMP+RACE
+network=0
+genre=Racing
+description=You got the guts for glory? Then rev up your Dreamcast and floor it to the finish line! Bust through those speedbumps in this off-road racing thrill-ride that's been suped up with new Dreamcast-only features.
+padding0=0

@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=4
+accessories=VGA
+network=0
+genre=Adventure
+description=Extinction is not an option in Disneys Dinosaur. Danger lurks at every corner as you lead the dinosaur herd through scorching lava flows, toxic smoke and scalding geysers. Its the ultimate trek for survival.
+padding0=0

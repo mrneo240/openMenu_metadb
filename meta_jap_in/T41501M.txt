@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=3
+accessories=VGA+MOD+KEY
+network=0
+genre=Puzzle
+description=The king has gotten lost looking for his daughter, so a golem sets out on a journey to find him and help him out. The Lost Golem is a puzzle game where the player must guide the king to a door in each stage by pushing walls around. Each stage is made up of walls, gates, and holes.
+padding0=0

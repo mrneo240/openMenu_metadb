@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=VGA
+network=0
+genre=Action
+description=Feel the earth move and the crowds roar as the biggest, baddest criminals in the galaxy run riot for their freedom. Only one rule Applies: Entertainment without parole.
+padding0=0

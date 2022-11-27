@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=0
+accessories=VGA+MOD
+network=0
+genre=Sports
+description=One of the few golf games for the DC, with a cartoony style. Contains arcade mode, tournaments, five different courses and 15 characters (11 unlockable). Lots of different equipment (balls and clubs mostly) and even a futuristic cyber mini golf game are thrown in.
+padding0=0

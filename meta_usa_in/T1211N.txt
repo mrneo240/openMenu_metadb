@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=5
+accessories=VGA+JUMP+ARC
+network=0
+genre=Action
+description=4-PLAYER FIGHTING MAYHEM! The world's most revolutionary fighting game does it again! Power Stone 2 takes go-anywhere, grab-anything combat, and introduces awesome new innovations to the hit arcade fighting series.
+padding0=0

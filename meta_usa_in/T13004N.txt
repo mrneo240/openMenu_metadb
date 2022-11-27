@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=4
+accessories=VGA+JUMP
+network=0
+genre=Fighting
+description=The sequel to the wildly popular arcade fighting game Virtual-On comes to your Sega Dreamcast in this perfect detail-by-detail version. You won't believe how exact, how frenetic and explosive it is! Giant virtuaroids rule the arena, each with a unique weapons array and thirst for destruction.
+padding0=0

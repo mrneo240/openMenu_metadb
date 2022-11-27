@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=160
+accessories=VGA
+network=0
+genre=Sports
+description=The results dont show up on a scoreboard. Try the Richter scale! The only dedicated 3-on-3, extreme-style basketball videogame available this season!
+padding0=0

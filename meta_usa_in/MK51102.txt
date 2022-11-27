@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=8
+accessories=VGA+KEY+MS+MOD
+network=0
+genre=Shooter
+description=The Safety of the World is in Your Hands. Prepare to join the ranks of the interforce and combat terrorism on a global scale. Whether playing with people in the same room or competing online with gamers across the nation, the action is Outtrigger never stops.
+padding0=0

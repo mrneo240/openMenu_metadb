@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=2
+accessories=VGA+JUMP+ARC
+network=0
+genre=Sports
+description=Imagine how a tennis player feels when he enters the arena, the crowd is cheering, the atmosphere electric, the adrenaline rushes... Well now you can with Virtua Tennis, the most lifelike and playable tennis game ever! Play as one of eight licensed players and uncover the secret stars.
+padding0=0

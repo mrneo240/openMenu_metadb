@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=20
+accessories=VGA+JUMP+FISH+MOD
+network=0
+genre=Sports
+description=HOOK ONE & HANG ON! Sega Marine Fishing, the sequel to the smash arcade hit and Dreamcast all-star Sega Bass Fishing, features all of the thrills and action of deep-sea fishing complete with blue marlin, sailfish, tarpon, tuna, and the dangerous mako shark!
+padding0=0

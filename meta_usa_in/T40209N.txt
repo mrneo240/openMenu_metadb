@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=3
+accessories=VGA+MOD
+network=0
+genre=Shooter
+description=From Erin and Chris Roberts, the award winning designers of Wing Commander comes a game beyond the reaches of your imagination. Battle for control of the galaxy as a member of the elite 45th Squadron or take on your friends in epic, multi-player deathmatch battles.
+padding0=0

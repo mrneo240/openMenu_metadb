@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=23
+accessories=VGA+JUMP
+network=0
+genre=Action+Survival
+description=Chainsaws, boomsticks, and Deadites, oh my! Fight evil across the spans of time: from the infamous cabin to ancient Damascus. Best of all... Bruce Campbell as Ash!
+padding0=0

@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=3
+accessories=VGA+JUMP
+network=0
+genre=Action+Platformer
+description=Pinki and her goons have taken over Pao Pao Park and it's up to Neo to set things right!
+padding0=0

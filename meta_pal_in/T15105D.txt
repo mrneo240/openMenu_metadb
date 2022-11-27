@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=7
+accessories=VGA+RACE+JUMP
+network=0
+genre=Racing
+description=The Ultimate Open Road Racing Championship. 16 officially licensed rally cars with 10 bonus cars. Over 80 new tracks in over 12 different countries exclusively for the Sega Dreamcast.
+padding0=0

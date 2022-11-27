@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=-
+accessories=VGA+JUMP
+network=0
+genre=Action
+description=The countdown to adventure is on! As space hero Buzz Lightyear, you've got your hands full. Your best buddy, Woody, has been kidnapped by a greedy toy collector and it's going to be an all-out race against time to save him.
+padding0=0

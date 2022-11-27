@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=190
+accessories=VGA
+network=0
+genre=Sports
+description=The powerplay begins...Over 1,000 motion-captured moves and over 100 goalie animations. Detailed graphics right down to the glass reflections, ice scrapes and skate sprays! Play-by-play commentary by Hall of Famer Bob Cole and color commentary by former NHL coach Harry Neale.
+padding0=0

@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=-
+accessories=VGA+JUMP
+network=0
+genre=Fighting
+description=A prototype soldier clone created to survive any enviroment and fight without conscience...Knackamiche intends to supply this technology tothe highest bidder, but SI-COPS has outher plans for the faceless corporation - they're ready to send in their own deadly opponent...
+padding0=0

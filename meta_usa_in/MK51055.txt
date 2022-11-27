@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=120
+accessories=VGA
+network=0
+genre=Sports
+description=IF THEY CAN DO IT ON THE DIAMOND, YOU CAN DO IT IN THIS GAME!
+padding0=0

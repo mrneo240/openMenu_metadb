@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=4
+accessories=VGA+JUMP+ARC
+network=0
+genre=Fighting
+description=United they stand. A group of long time friends now unite in the pursuit of honor and excellence. Setting all past rivalries aside, they band together to uncover the mystery behind an unusual series of events.
+padding0=0

@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=8
+accessories=VGA+JUMP
+network=0
+genre=Action
+description=After being kidnapped from his beautiful home, Kao must find his way back to Australia. Armed with comedy-sized boxing gloves, Kao hops, skips, and triple jumps his way across magnificently colored landscapes.Use hang gliders, motorboats, snowboards, and even a space scooter.
+padding0=0

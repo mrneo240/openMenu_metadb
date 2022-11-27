@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=4
+accessories=VGA+JUMP
+network=0
+genre=Puzzle
+description=Wetrix is a hypnotic, addictive, blindingly colorful water-based puzzle game that plays on a moving and grooving 3D landscape!
+padding0=0

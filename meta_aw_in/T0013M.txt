@@ -1,0 +1,8 @@
+[ITEM]
+num_players=4
+vmu_blocks=-
+accessories=VGA+ARC
+network=0
+genre=Fighting
+description=Guilty Gear Isuka introduces new characters, new arenas, and several new franchise firsts. Now, four players can brawl in two-on-two fighting or cooperatively against the computer AI. A new mode lets you customize your own character's appearance, moves, and combos with points earned during matches.
+padding0=0

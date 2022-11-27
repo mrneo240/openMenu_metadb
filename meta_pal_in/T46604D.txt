@@ -1,0 +1,8 @@
+[ITEM]
+num_players=1
+vmu_blocks=-
+accessories=JUMP
+network=0
+genre=Strategy
+description=Enter the shocking world of real modern warfare, where the manipulation of media and civilians leads to military victory. As the commander of peacekeepers against terrorist armies, you must build a campaign using strategic brilliance.
+padding0=0

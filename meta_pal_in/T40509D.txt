@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=-
+accessories=VGA
+network=0
+genre=Racing
+description=Aqua GT is a powerboat racing game. There are four classes of boats with different characteristics - you must master them all to become a true champ. Do you have what it takes to be a winner or will you be left drowning?!!!
+padding0=0
