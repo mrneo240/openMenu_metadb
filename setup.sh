@@ -2,12 +2,13 @@
 OUT=output
 TOOLS=tools
 TEMP=temp
+IN=meta_in
 
 # setup folders
 mkdir -p ${OUT}
 mkdir -p ${TOOLS}
 mkdir -p ${TEMP}
-mkdir -p ${meta_in}
+mkdir -p ${IN}
 
 # clone tools
 git clone --depth 1 https://github.com/mrneo240/openmenu.git ${TEMP}/openmenu
