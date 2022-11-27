@@ -1,0 +1,40 @@
+name: main-workflow
+
+env: {}
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  # Build and release.
+  build-and-release:
+    runs-on: ubuntu-latest
+    steps:
+      # Check out source code.
+      - name: Check out source code
+        uses: actions/checkout@v3
+      - name: Setup folders and compile tools
+        run: sh ./setup.sh
+      - name: Convert and pack metadata
+        run: sh ./process.sh
+      - name: Generate release tag
+        id: tag
+        run: |
+          echo "::set-output name=release_tag::test_$(date +"%Y.%m.%d_%H-%M")"
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        with:
+          body_path: CHANGES.md
+          tag_name: ${{ steps.tag.outputs.release_tag }}
+          files: |
+            output/META.DAT
+      - uses: actions/upload-artifact@v3
+        if: ${{ always() }}
+        with:
+          name: DAT
+          path: output/
