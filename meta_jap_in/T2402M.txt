@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=2
+accessories=VGA+JUMP
+network=0
+genre=Fighting
+description=The follow-up to Guilty Gear comes to the Dreamcast, bringing a new pinnacle of quality to the 2D fighting genre.
+padding0=0
