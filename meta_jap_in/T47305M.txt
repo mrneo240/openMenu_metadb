@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=2
+accessories=VGA+JUMP
+network=0
+genre=Fighting
+description=Playmore is back with its latest Neo Geo conversion, King of Fighters 2002 for your Dreamcast. Revived 3 on 3 battles and New MAX Activation System enable you to get more and more exciting showdowns. "Fight it out! The time has come." 
+padding0=0

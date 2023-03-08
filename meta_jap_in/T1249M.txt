@@ -1,0 +1,8 @@
+[ITEM]
+num_players=2
+vmu_blocks=2
+accessories=VGA+JUMP
+network=0
+genre=Fighting
+description=Two of the greatest forces in fighting history team up to deliver a classic piece of arcade action! Pick from over 44 characters from some of the greatest beat 'em ups of all time, including the original Street Fighter and Fatal Fury. Choose from six different fighting "grooves", each with a different series of moves and techniques based on classic Capcom and SNK fighting titles, to suit your preferred style.
+padding0=0
